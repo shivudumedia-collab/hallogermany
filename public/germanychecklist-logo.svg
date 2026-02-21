@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">germanychecklist logo</title>
+  <desc id="desc">Logo with Indian and German flags, graduation cap, checklist clipboard, and green tick mark.</desc>
+  <defs>
+    <linearGradient id="gc-panel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#171d2f" />
+      <stop offset="100%" stop-color="#090d18" />
+    </linearGradient>
+    <linearGradient id="gc-metal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7f8fa" />
+      <stop offset="100%" stop-color="#d8dde5" />
+    </linearGradient>
+    <linearGradient id="gc-bag" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3a4352" />
+      <stop offset="100%" stop-color="#111722" />
+    </linearGradient>
+    <linearGradient id="gc-white" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#edf2f8" />
+    </linearGradient>
+    <filter id="gc-shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+    <clipPath id="gc-flag-in">
+      <path d="M80 82c60 16 132-16 200 10v58c-66-18-137 15-200-8z" />
+    </clipPath>
+    <clipPath id="gc-flag-de">
+      <path d="M360 82c68-24 132 21 204-7v67c-69 22-134-18-204 8z" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#gc-flag-in)">
+    <rect x="72" y="82" width="220" height="22" fill="#ff9933" />
+    <rect x="72" y="104" width="220" height="18" fill="#ffffff" />
+    <rect x="72" y="122" width="220" height="28" fill="#138808" />
+    <circle cx="170" cy="113" r="10.5" fill="none" stroke="#1a3c8f" stroke-width="1.8" />
+    <path d="M170 103v20M160 113h20M163 106l14 14M177 106l-14 14" stroke="#1a3c8f" stroke-width="0.8" />
+  </g>
+
+  <g clip-path="url(#gc-flag-de)">
+    <rect x="350" y="72" width="230" height="24" fill="#111111" />
+    <rect x="350" y="96" width="230" height="24" fill="#dd0000" />
+    <rect x="350" y="120" width="230" height="30" fill="#ffce00" />
+  </g>
+
+  <g filter="url(#gc-shadow)">
+    <path d="M120 138c70-44 330-46 406 2-24 34-68 52-110 60H220c-45-9-77-24-100-62z" fill="url(#gc-panel)" />
+  </g>
+
+  <g filter="url(#gc-shadow)">
+    <path d="M185 112l78-41 78 41-78 40z" fill="#121a2a" stroke="#f8fafc" stroke-width="4" />
+    <circle cx="264" cy="90" r="7" fill="#090e1a" stroke="#1f2937" stroke-width="2" />
+    <path d="M340 112v34" stroke="#121a2a" stroke-width="5" stroke-linecap="round" />
+    <path d="M340 146c0 5 9 5 9 0" stroke="#f3c316" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <g filter="url(#gc-shadow)">
+    <rect x="260" y="54" width="130" height="92" rx="8" fill="url(#gc-white)" stroke="#1f2937" stroke-width="4" />
+    <rect x="287" y="44" width="75" height="16" rx="7" fill="url(#gc-metal)" stroke="#1f2937" stroke-width="3" />
+    <circle cx="325" cy="52" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="3" />
+    <rect x="280" y="79" width="22" height="22" fill="#e6f4d6" stroke="#7a9b3f" stroke-width="2" />
+    <path d="M285 90l7 7 13-17" stroke="#247b16" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="280" y="108" width="22" height="22" fill="#e6f4d6" stroke="#7a9b3f" stroke-width="2" />
+    <path d="M285 119l7 7 13-17" stroke="#247b16" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M312 88h58M312 96h44M312 116h58M312 124h44" stroke="#7d8793" stroke-width="3" />
+  </g>
+
+  <g filter="url(#gc-shadow)">
+    <rect x="360" y="90" width="115" height="86" rx="12" fill="url(#gc-bag)" stroke="#f4f4f5" stroke-width="4" />
+    <path d="M382 90v-11c0-9 71-9 71 0v11" fill="none" stroke="#f4f4f5" stroke-width="4" />
+    <path d="M360 126h115" stroke="#0a0f1a" stroke-width="4" />
+    <rect x="409" y="118" width="17" height="18" rx="3" fill="#d7dce5" stroke="#f4f4f5" stroke-width="2" />
+  </g>
+
+  <text x="176" y="174" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#f5f7fb">Germany</text>
+  <text x="232" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-style="italic" font-weight="700" fill="#ffd449">Checklist</text>
+
+  <path d="M446 173l26 26 56-56" fill="none" stroke="#0f8e3a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M448 173l26 26 56-56" fill="none" stroke="#063e19" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.8" />
+</svg>

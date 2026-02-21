@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 0 0% 0%;
+  --primary: 0 0% 0%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 30 100% 50%;
+  --secondary-foreground: 0 0% 100%;
+  --muted: 0 0% 100%;
+  --muted-foreground: 0 0% 0%;
+  --border: 0 0% 0%;
+  --card: 0 0% 100%;
+  --accent: 35 100% 56%;
+}
+
+* {
+  @apply border-border;
+}
+
+html,
+body {
+  min-height: 100%;
+  background: #ffffff;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+  font-family: var(--font-body), sans-serif;
+  position: relative;
+  overflow-x: clip;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: -10vmax;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 8% 10%, rgba(255, 122, 0, 0.17) 0%, transparent 42%),
+    radial-gradient(circle at 88% 12%, rgba(220, 38, 38, 0.14) 0%, transparent 38%),
+    radial-gradient(circle at 80% 84%, rgba(22, 163, 74, 0.13) 0%, transparent 38%),
+    radial-gradient(circle at 20% 86%, rgba(250, 204, 21, 0.1) 0%, transparent 35%);
+}
+
+main {
+  animation: page-enter 280ms ease-out;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display), serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-wrap: balance;
+}
+
+.page-container {
+  @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+}
+
+.hero-grid {
+  background:
+    radial-gradient(circle at 0% 0%, rgba(255, 122, 0, 0.12) 0%, transparent 34%),
+    radial-gradient(circle at 100% 100%, rgba(22, 163, 74, 0.11) 0%, transparent 34%),
+    linear-gradient(135deg, rgba(250, 204, 21, 0.08), rgba(220, 38, 38, 0.05) 45%, rgba(255, 255, 255, 0.98));
+}
+
+.gloss-ring {
+  box-shadow:
+    0 16px 30px -24px rgba(255, 122, 0, 0.45),
+    0 12px 26px -24px rgba(22, 163, 74, 0.35);
+}
+
+.brand-title {
+  background: linear-gradient(90deg, #ff7a00 0%, #dc2626 44%, #16a34a 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
+}
+
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

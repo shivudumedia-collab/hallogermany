@@ -1,0 +1,37 @@
+{
+  "name": "germany-study-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "NEXT_DISABLE_WEBPACK_CACHE=1 next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "crawl:daad-cs": "node scripts/fetch-daad-cs-programs.mjs",
+    "crawl:daad-engg": "node scripts/fetch-daad-engineering-programs.mjs all"
+  },
+  "dependencies": {
+    "@radix-ui/react-accordion": "^1.2.0",
+    "@supabase/ssr": "^0.5.1",
+    "@supabase/supabase-js": "^2.47.10",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.451.0",
+    "next": "^14.2.20",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sonner": "^1.7.1",
+    "tailwind-merge": "^2.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.7",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.6.3"
+  }
+}

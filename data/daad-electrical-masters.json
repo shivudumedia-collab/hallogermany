@@ -1,0 +1,3132 @@
+{
+  "meta": {
+    "generatedAt": "2026-02-19T23:42:55.492Z",
+    "source": "DAAD Hochschulkompass via api.daad.de",
+    "degreeFilter": "Master (hec-degreeType=37, graduate programmes)",
+    "stream": "electrical",
+    "terms": [
+      "electrical engineering",
+      "electronic engineering",
+      "power engineering",
+      "communication engineering",
+      "embedded systems",
+      "automation engineering",
+      "control engineering",
+      "microelectronics"
+    ],
+    "totalPrograms": 187
+  },
+  "programs": [
+    {
+      "id": "w74279",
+      "title": "Electrical Engineering",
+      "university": "AKAD University of Applied Sciences in Stuttgart - state accredited",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart",
+      "studyMode": "part time degree programmes for professionals, distance studies, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/akad-university-of-applied-sciences-in-stuttgart-state-accredited-electrical-engineering-w74279/?hec-id=w74279",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/akad-university-of-applied-sciences-in-stuttgart-state-accredited-electrical-engineering-w74279/?hec-id=w74279",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w40267",
+      "title": "Electrical and information technology (career-integrated)",
+      "university": "Anhalt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Köthen",
+      "studyMode": "part time degree programmes for professionals",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | 23 days left (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/anhalt-university-of-applied-sciences-electrical-and-information-technology-career-integrated-w40267/?hec-id=w40267",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/anhalt-university-of-applied-sciences-electrical-and-information-technology-career-integrated-w40267/?hec-id=w40267",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w17020",
+      "title": "Electrical engineering and information technology",
+      "university": "Anhalt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Köthen",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/anhalt-university-of-applied-sciences-electrical-engineering-and-information-technology-w17020/?hec-id=w17020",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/anhalt-university-of-applied-sciences-electrical-engineering-and-information-technology-w17020/?hec-id=w17020",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w13867",
+      "title": "Electrical and Information Engineering",
+      "university": "Aschaffenburg University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Aschaffenburg",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/aschaffenburg-university-of-applied-sciences-electrical-and-information-engineering-w13867/?hec-id=w13867",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/aschaffenburg-university-of-applied-sciences-electrical-and-information-engineering-w13867/?hec-id=w13867",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w71731",
+      "title": "Electrical Engineering",
+      "university": "Augsburg University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Augsburg",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/augsburg-university-of-applied-sciences-electrical-engineering-w71731/?hec-id=w71731",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/augsburg-university-of-applied-sciences-electrical-engineering-w71731/?hec-id=w71731",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w50458",
+      "title": "electrical and information technology",
+      "university": "Baden-Wuerttemberg Cooperative State University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart, Heidenheim, Lörrach, Karlsruhe, Mannheim, Mosbach, Ravensburg, Villingen-Schwenningen, Heilbronn, Friedrichshafen, Bad Mergentheim, Horb",
+      "studyMode": "part time degree programmes for professionals, with integrated professional experience, dual system, part time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/baden-wuerttemberg-cooperative-state-university-electrical-and-information-technology-w50458/?hec-id=w50458",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/baden-wuerttemberg-cooperative-state-university-electrical-and-information-technology-w50458/?hec-id=w50458",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w65076",
+      "title": "Electrical Engineering - Higher Technical Plant Management",
+      "university": "bbw university",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Berlin",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "September 2026 (Germans and inhabitants) | September 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bbw-university-electrical-engineering-higher-technical-plant-management-w65076/?hec-id=w65076",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bbw-university-electrical-engineering-higher-technical-plant-management-w65076/?hec-id=w65076",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w41756",
+      "title": "Electrical engineering",
+      "university": "Berlin School of Applied Sciences (HTW)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-school-of-applied-sciences-htw-electrical-engineering-w41756/?hec-id=w41756",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-school-of-applied-sciences-htw-electrical-engineering-w41756/?hec-id=w41756",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w60506",
+      "title": "Information and Communications Engineering",
+      "university": "Berlin University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Berlin",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-applied-sciences-information-and-communications-engineering-w60506/?hec-id=w60506",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-applied-sciences-information-and-communications-engineering-w60506/?hec-id=w60506",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w17448",
+      "title": "Electrical and Electronic Engineering (Teaching Qualification for Vocational Training Schools)",
+      "university": "Berlin University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-and-electronic-engineering-teaching-qualification-for-vocational-training-schools-w17448/?hec-id=w17448",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-and-electronic-engineering-teaching-qualification-for-vocational-training-schools-w17448/?hec-id=w17448",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w6416",
+      "title": "Electrical engineering",
+      "university": "Berlin University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-engineering-w6416/?hec-id=w6416",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-engineering-w6416/?hec-id=w6416",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w54977",
+      "title": "Electrical Engineering/Information Engineering as a lateral entry (Teaching Qualification for Vocational Schools)",
+      "university": "Berlin University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-engineeringinformation-engineering-as-a-lateral-entry-teaching-qualification-for-vocational-schools-w54977/?hec-id=w54977",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-engineeringinformation-engineering-as-a-lateral-entry-teaching-qualification-for-vocational-schools-w54977/?hec-id=w54977",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w63997",
+      "title": "Electrical Engineering/Mathematics as a lateral entry (Teaching Qualification for Vocational Schools)",
+      "university": "Berlin University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-engineeringmathematics-as-a-lateral-entry-teaching-qualification-for-vocational-schools-w63997/?hec-id=w63997",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-electrical-engineeringmathematics-as-a-lateral-entry-teaching-qualification-for-vocational-schools-w63997/?hec-id=w63997",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w42687",
+      "title": "Electrical engineering",
+      "university": "Bielefeld University of Applied Sciences and Arts (HSBI)",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Bielefeld",
+      "studyMode": "full time",
+      "deadlines": "8 days left (Germans and inhabitants) | 8 days left (EU) | 8 days left (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bielefeld-university-of-applied-sciences-and-arts-hsbi-electrical-engineering-w42687/?hec-id=w42687",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bielefeld-university-of-applied-sciences-and-arts-hsbi-electrical-engineering-w42687/?hec-id=w42687",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w44535",
+      "title": "Electrical and Electronics Engineering",
+      "university": "Bochum University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Bochum",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | March 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bochum-university-of-applied-sciences-electrical-and-electronics-engineering-w44535/?hec-id=w44535",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bochum-university-of-applied-sciences-electrical-and-electronics-engineering-w44535/?hec-id=w44535",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w35107",
+      "title": "Electrical engineering",
+      "university": "Bonn-Rhine-Sieg University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Sankt Augustin",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bonn-rhine-sieg-university-of-applied-sciences-electrical-engineering-w35107/?hec-id=w35107",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bonn-rhine-sieg-university-of-applied-sciences-electrical-engineering-w35107/?hec-id=w35107",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w39272",
+      "title": "Electrical engineering",
+      "university": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Senftenberg",
+      "studyMode": "part time, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | August 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-electrical-engineering-w39272/?hec-id=w39272",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-electrical-engineering-w39272/?hec-id=w39272",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w7900",
+      "title": "Electrical engineering",
+      "university": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Cottbus",
+      "studyMode": "part time, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | August 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-electrical-engineering-w7900/?hec-id=w7900",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-electrical-engineering-w7900/?hec-id=w7900",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w10462",
+      "title": "Power Engineering",
+      "university": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Cottbus",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "August 2026 (Germans and inhabitants) | August 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-power-engineering-w10462/?hec-id=w10462",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-power-engineering-w10462/?hec-id=w10462",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w30804",
+      "title": "Embedded Systems Design",
+      "university": "Bremerhaven University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Bremerhaven",
+      "studyMode": "international course, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bremerhaven-university-of-applied-sciences-embedded-systems-design-w30804/?hec-id=w30804",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bremerhaven-university-of-applied-sciences-embedded-systems-design-w30804/?hec-id=w30804",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "embedded systems",
+        "control engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w23716",
+      "title": "Electrical Engineering and Information Engineering",
+      "university": "Bundeswehr University Munich",
+      "degree": "Master",
+      "duration": "5 trimesters",
+      "location": "Neubiberg",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bundeswehr-university-munich-electrical-engineering-and-information-engineering-w23716/?hec-id=w23716",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bundeswehr-university-munich-electrical-engineering-and-information-engineering-w23716/?hec-id=w23716",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w47558",
+      "title": "Embedded Systems",
+      "university": "Chemnitz University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Chemnitz",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/chemnitz-university-of-technology-embedded-systems-w47558/?hec-id=w47558",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/chemnitz-university-of-technology-embedded-systems-w47558/?hec-id=w47558",
+      "termHits": [
+        "electrical engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w64737",
+      "title": "Electrical and Electronic Engineering and Information Engineering",
+      "university": "Clausthal University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Clausthal-Zellerfeld",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/clausthal-university-of-technology-electrical-and-electronic-engineering-and-information-engineering-w64737/?hec-id=w64737",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/clausthal-university-of-technology-electrical-and-electronic-engineering-and-information-engineering-w64737/?hec-id=w64737",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w56782",
+      "title": "Electrical Engineering and Energy Systems",
+      "university": "Dortmund University of Applied Sciences and Arts",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dortmund",
+      "studyMode": "full time",
+      "deadlines": "January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/dortmund-university-of-applied-sciences-and-arts-electrical-engineering-and-energy-systems-w56782/?hec-id=w56782",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/dortmund-university-of-applied-sciences-and-arts-electrical-engineering-and-energy-systems-w56782/?hec-id=w56782",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w56783",
+      "title": "Electrical Engineering and Energy Systems, part-time",
+      "university": "Dortmund University of Applied Sciences and Arts",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Dortmund",
+      "studyMode": "full time",
+      "deadlines": "January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/dortmund-university-of-applied-sciences-and-arts-electrical-engineering-and-energy-systems-part-time-w56783/?hec-id=w56783",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/dortmund-university-of-applied-sciences-and-arts-electrical-engineering-and-energy-systems-part-time-w56783/?hec-id=w56783",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w46655",
+      "title": "Embedded Systems Engineering",
+      "university": "Dortmund University of Applied Sciences and Arts",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dortmund",
+      "studyMode": "international course, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | September 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/dortmund-university-of-applied-sciences-and-arts-embedded-systems-engineering-w46655/?hec-id=w46655",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/dortmund-university-of-applied-sciences-and-arts-embedded-systems-engineering-w46655/?hec-id=w46655",
+      "termHits": [
+        "electrical engineering",
+        "embedded systems",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w16256",
+      "title": "Electrical and Electronic Engineering/Information Engineering",
+      "university": "Ernst Abbe University, Jena",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Jena",
+      "studyMode": "part time, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | 23 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ernst-abbe-university-jena-electrical-and-electronic-engineeringinformation-engineering-w16256/?hec-id=w16256",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ernst-abbe-university-jena-electrical-and-electronic-engineeringinformation-engineering-w16256/?hec-id=w16256",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "embedded systems",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w42387",
+      "title": "Electrical Engineering",
+      "university": "Europa-Universität Flensburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Flensburg",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/europa-universitaet-flensburg-electrical-engineering-w42387/?hec-id=w42387",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/europa-universitaet-flensburg-electrical-engineering-w42387/?hec-id=w42387",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w30650",
+      "title": "Electrical and Electronic Engineering",
+      "university": "FH Aachen - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "8 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-aachen-university-of-applied-sciences-electrical-and-electronic-engineering-w30650/?hec-id=w30650",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-aachen-university-of-applied-sciences-electrical-and-electronic-engineering-w30650/?hec-id=w30650",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w64436",
+      "title": "Electrical and Electronic Engineering (part-time)",
+      "university": "FH Aachen - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Aachen",
+      "studyMode": "part time",
+      "deadlines": "8 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-aachen-university-of-applied-sciences-electrical-and-electronic-engineering-part-time-w64436/?hec-id=w64436",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-aachen-university-of-applied-sciences-electrical-and-electronic-engineering-part-time-w64436/?hec-id=w64436",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w70183",
+      "title": "Electrical and Electronic Engineering - Teaching Qualification for Vocational Colleges",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Münster, Steinfurt",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "April 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-electrical-and-electronic-engineering-teaching-qualification-for-vocational-colleges-w70183/?hec-id=w70183",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-electrical-and-electronic-engineering-teaching-qualification-for-vocational-colleges-w70183/?hec-id=w70183",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w70186",
+      "title": "Electrical and Electronic Engineering - Teaching Qualification for Vocational Colleges",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Münster, Steinfurt",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-electrical-and-electronic-engineering-teaching-qualification-for-vocational-colleges-w70186/?hec-id=w70186",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-electrical-and-electronic-engineering-teaching-qualification-for-vocational-colleges-w70186/?hec-id=w70186",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w47573",
+      "title": "Electrical engineering",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Steinfurt",
+      "studyMode": "full time",
+      "deadlines": "August 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-electrical-engineering-w47573/?hec-id=w47573",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-electrical-engineering-w47573/?hec-id=w47573",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "embedded systems",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w47575",
+      "title": "Part-time Electrical Engineering",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Steinfurt",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "8 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-part-time-electrical-engineering-w47575/?hec-id=w47575",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-part-time-electrical-engineering-w47575/?hec-id=w47575",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "embedded systems",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w69615",
+      "title": "Power Engineering, career-integrated",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Steinfurt",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "9 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-power-engineering-career-integrated-w69615/?hec-id=w69615",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-power-engineering-career-integrated-w69615/?hec-id=w69615",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w65172",
+      "title": "Electrical Engineering – Renewable Energy (3 semesters)",
+      "university": "Frankfurt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Frankfurt am Main",
+      "studyMode": "full time",
+      "deadlines": "9 days left (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-electrical-engineering-renewable-energy-3-semesters-w65172/?hec-id=w65172",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-electrical-engineering-renewable-energy-3-semesters-w65172/?hec-id=w65172",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w65173",
+      "title": "Electrical Engineering – Renewable Energy (4 semesters)",
+      "university": "Frankfurt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Frankfurt am Main",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-electrical-engineering-renewable-energy-4-semesters-w65173/?hec-id=w65173",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-electrical-engineering-renewable-energy-4-semesters-w65173/?hec-id=w65173",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w57336",
+      "title": "Embedded Systems",
+      "university": "Fulda University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Fulda",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | March 2026 (EU) | March 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fulda-university-of-applied-sciences-embedded-systems-w57336/?hec-id=w57336",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fulda-university-of-applied-sciences-embedded-systems-w57336/?hec-id=w57336",
+      "termHits": [
+        "electrical engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w29727",
+      "title": "Electronic and Mechatronic Systems",
+      "university": "Georg Simon Ohm University of Applied Sciences Nuremberg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Nürnberg",
+      "studyMode": "dual system, including practical semester, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/georg-simon-ohm-university-of-applied-sciences-nuremberg-electronic-and-mechatronic-systems-w29727/?hec-id=w29727",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/georg-simon-ohm-university-of-applied-sciences-nuremberg-electronic-and-mechatronic-systems-w29727/?hec-id=w29727",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w72904",
+      "title": "Information and Communications Engineering",
+      "university": "Hamburg University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Hamburg",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hamburg-university-of-applied-sciences-information-and-communications-engineering-w72904/?hec-id=w72904",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hamburg-university-of-applied-sciences-information-and-communications-engineering-w72904/?hec-id=w72904",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w14721",
+      "title": "Microelectronic Systems",
+      "university": "Hamburg University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Hamburg",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hamburg-university-of-applied-sciences-microelectronic-systems-w14721/?hec-id=w14721",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hamburg-university-of-applied-sciences-microelectronic-systems-w14721/?hec-id=w14721",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w13202",
+      "title": "Electrical Engineering /Information Engineering",
+      "university": "HAWK University of Applied Sciences and Arts Hildesheim/Holzminden/Göttingen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Göttingen",
+      "studyMode": "full time",
+      "deadlines": "August 2026 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hawk-university-of-applied-sciences-and-arts-hildesheimholzmindengoettingen-electrical-engineering-information-engineering-w13202/?hec-id=w13202",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hawk-university-of-applied-sciences-and-arts-hildesheimholzmindengoettingen-electrical-engineering-information-engineering-w13202/?hec-id=w13202",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w17004",
+      "title": "Electrical Engineering",
+      "university": "Heilbronn University",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Künzelsau",
+      "studyMode": "part time degree programmes for professionals, part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/heilbronn-university-electrical-engineering-w17004/?hec-id=w17004",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/heilbronn-university-electrical-engineering-w17004/?hec-id=w17004",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w19126",
+      "title": "Electrical Systems Engineering",
+      "university": "Heilbronn University",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Heilbronn",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/heilbronn-university-electrical-systems-engineering-w19126/?hec-id=w19126",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/heilbronn-university-electrical-systems-engineering-w19126/?hec-id=w19126",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w32428",
+      "title": "Electrical and Information Engineering",
+      "university": "Hochschule Düsseldorf",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Düsseldorf",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-duesseldorf-electrical-and-information-engineering-w32428/?hec-id=w32428",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-duesseldorf-electrical-and-information-engineering-w32428/?hec-id=w32428",
+      "termHits": [
+        "electrical engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w22627",
+      "title": "Electrical and Information Engineering",
+      "university": "Hochschule für angewandte Wissenschaften Coburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Coburg",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-angewandte-wissenschaften-coburg-electrical-and-information-engineering-w22627/?hec-id=w22627",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-angewandte-wissenschaften-coburg-electrical-and-information-engineering-w22627/?hec-id=w22627",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w25829",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "Hochschule für Technik und Wirtschaft Dresden - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Dresden",
+      "studyMode": "part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-technik-und-wirtschaft-dresden-university-of-applied-sciences-electrical-engineering-and-information-technology-w25829/?hec-id=w25829",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-technik-und-wirtschaft-dresden-university-of-applied-sciences-electrical-engineering-and-information-technology-w25829/?hec-id=w25829",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w64462",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "Hochschule für Technik und Wirtschaft Dresden - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dresden",
+      "studyMode": "part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-technik-und-wirtschaft-dresden-university-of-applied-sciences-electrical-engineering-and-information-technology-w64462/?hec-id=w64462",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-technik-und-wirtschaft-dresden-university-of-applied-sciences-electrical-engineering-and-information-technology-w64462/?hec-id=w64462",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w61925",
+      "title": "Electrical and Electronics Engineering",
+      "university": "Hochschule Kaiserslautern (University of Applied Sciences)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "part time degree programmes for professionals",
+      "deadlines": "August 2026 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-kaiserslautern-university-of-applied-sciences-electrical-and-electronics-engineering-w61925/?hec-id=w61925",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-kaiserslautern-university-of-applied-sciences-electrical-and-electronics-engineering-w61925/?hec-id=w61925",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w23845",
+      "title": "Electrical Engineering and Information Engineering",
+      "university": "Hochschule Kaiserslautern (University of Applied Sciences)",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "dual system, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-kaiserslautern-university-of-applied-sciences-electrical-engineering-and-information-engineering-w23845/?hec-id=w23845",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-kaiserslautern-university-of-applied-sciences-electrical-engineering-and-information-engineering-w23845/?hec-id=w23845",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w15628",
+      "title": "Electrical Engineering",
+      "university": "Hochschule Niederrhein",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Krefeld",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-niederrhein-electrical-engineering-w15628/?hec-id=w15628",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-niederrhein-electrical-engineering-w15628/?hec-id=w15628",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w49133",
+      "title": "Electrical and Electronic Engineering and Management",
+      "university": "Hochschule Schmalkalden",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Schmalkalden",
+      "studyMode": "part time degree programmes for professionals, distance studies",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-schmalkalden-electrical-and-electronic-engineering-and-management-w49133/?hec-id=w49133",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-schmalkalden-electrical-and-electronic-engineering-and-management-w49133/?hec-id=w49133",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w18843",
+      "title": "Electrical Engineering and Information Engineering",
+      "university": "Hochschule Schmalkalden",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Schmalkalden",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-schmalkalden-electrical-engineering-and-information-engineering-w18843/?hec-id=w18843",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-schmalkalden-electrical-engineering-and-information-engineering-w18843/?hec-id=w18843",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w40842",
+      "title": "Electrical Engineering and Information Engineering",
+      "university": "Hochschule Schmalkalden",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Schmalkalden",
+      "studyMode": "part time",
+      "deadlines": "January 2027 (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-schmalkalden-electrical-engineering-and-information-engineering-w40842/?hec-id=w40842",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-schmalkalden-electrical-engineering-and-information-engineering-w40842/?hec-id=w40842",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w18882",
+      "title": "Electrical Systems",
+      "university": "HTWG Konstanz University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Konstanz",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/htwg-konstanz-university-of-applied-sciences-electrical-systems-w18882/?hec-id=w18882",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/htwg-konstanz-university-of-applied-sciences-electrical-systems-w18882/?hec-id=w18882",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w42367",
+      "title": "Electrical and Electronics Engineering",
+      "university": "Jade University of Applied Sciences Wilhelmshaven/Oldenburg/Elsfleth",
+      "degree": "Master",
+      "duration": "2 semesters",
+      "location": "Wilhelmshaven",
+      "studyMode": "part time, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/jade-university-of-applied-sciences-wilhelmshavenoldenburgelsfleth-electrical-and-electronics-engineering-w42367/?hec-id=w42367",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/jade-university-of-applied-sciences-wilhelmshavenoldenburgelsfleth-electrical-and-electronics-engineering-w42367/?hec-id=w42367",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w6509",
+      "title": "Electrical Engineering & Information Technology",
+      "university": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "international course, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-electrical-engineering-information-technology-w6509/?hec-id=w6509",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-electrical-engineering-information-technology-w6509/?hec-id=w6509",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w64141",
+      "title": "Electrical Engineering – Electronic Systems and Management (M. Eng.)",
+      "university": "Karlsruhe University of Applied Sciences",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "part time degree programmes for professionals",
+      "deadlines": "February 2027 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-electrical-engineering-electronic-systems-and-management-m-eng-w64141/?hec-id=w64141",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-electrical-engineering-electronic-systems-and-management-m-eng-w64141/?hec-id=w64141",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "embedded systems",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w6339",
+      "title": "Electrical, Electronic & Information Engineering",
+      "university": "Karlsruhe University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "international course, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-electrical-electronic-information-engineering-w6339/?hec-id=w6339",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-electrical-electronic-information-engineering-w6339/?hec-id=w6339",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w30987",
+      "title": "Electrical and Information Engineering",
+      "university": "Kiel University",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kiel",
+      "studyMode": "international course, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/kiel-university-electrical-and-information-engineering-w30987/?hec-id=w30987",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/kiel-university-electrical-and-information-engineering-w30987/?hec-id=w30987",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w30993",
+      "title": "Industrial Engineering Electrical and Information Engineering",
+      "university": "Kiel University",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kiel",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/kiel-university-industrial-engineering-electrical-and-information-engineering-w30993/?hec-id=w30993",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/kiel-university-industrial-engineering-electrical-and-information-engineering-w30993/?hec-id=w30993",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w31507",
+      "title": "Electrical Technologies",
+      "university": "Kiel University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kiel",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | 23 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/kiel-university-of-applied-sciences-electrical-technologies-w31507/?hec-id=w31507",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/kiel-university-of-applied-sciences-electrical-technologies-w31507/?hec-id=w31507",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w8848",
+      "title": "Electrical engineering",
+      "university": "Landshut - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Landshut",
+      "studyMode": "dual system, including practical semester, full time",
+      "deadlines": "8 days left (Germans and inhabitants) | 8 days left (EU) | 8 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/landshut-university-of-applied-sciences-electrical-engineering-w8848/?hec-id=w8848",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/landshut-university-of-applied-sciences-electrical-engineering-w8848/?hec-id=w8848",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w6336",
+      "title": "Electrical Engineering and Information Engineering",
+      "university": "Leipzig University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Leipzig",
+      "studyMode": "part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-electrical-engineering-and-information-engineering-w6336/?hec-id=w6336",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-electrical-engineering-and-information-engineering-w6336/?hec-id=w6336",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w34717",
+      "title": "Industrial Engineering, Electrical and Electronic Engineering",
+      "university": "Leipzig University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Leipzig",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-industrial-engineering-electrical-and-electronic-engineering-w34717/?hec-id=w34717",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-industrial-engineering-electrical-and-electronic-engineering-w34717/?hec-id=w34717",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w7224",
+      "title": "Electrical and Electronic Engineering",
+      "university": "Mannheim Technical University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Mannheim",
+      "studyMode": "part time, full time",
+      "deadlines": "23 days left (Germans and inhabitants)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/mannheim-technical-university-of-applied-sciences-electrical-and-electronic-engineering-w7224/?hec-id=w7224",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/mannheim-technical-university-of-applied-sciences-electrical-and-electronic-engineering-w7224/?hec-id=w7224",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w56630",
+      "title": "Electrical and Electronic Engineering - Automation",
+      "university": "Mittweida University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Mittweida",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/mittweida-university-of-applied-sciences-electrical-and-electronic-engineering-automation-w56630/?hec-id=w56630",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/mittweida-university-of-applied-sciences-electrical-and-electronic-engineering-automation-w56630/?hec-id=w56630",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w5812",
+      "title": "Electrical engineering and information technology",
+      "university": "Munich University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "München",
+      "studyMode": "part time, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-applied-sciences-electrical-engineering-and-information-technology-w5812/?hec-id=w5812",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-applied-sciences-electrical-engineering-and-information-technology-w5812/?hec-id=w5812",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w6749",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "Munich University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "München",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-electrical-engineering-and-information-technology-w6749/?hec-id=w6749",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-electrical-engineering-and-information-technology-w6749/?hec-id=w6749",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w31076",
+      "title": "Power Engineering",
+      "university": "Munich University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "München, Garching",
+      "studyMode": "international course, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-power-engineering-w31076/?hec-id=w31076",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-power-engineering-w31076/?hec-id=w31076",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w35375",
+      "title": "Teaching at Vocational Schools - Electrical Engineering and Information Technology",
+      "university": "Munich University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "München, Garching",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-teaching-at-vocational-schools-electrical-engineering-and-information-technology-w35375/?hec-id=w35375",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-teaching-at-vocational-schools-electrical-engineering-and-information-technology-w35375/?hec-id=w35375",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w57560",
+      "title": "Teaching Qualification for Vocational Schools - Master in Integrated Vocational Education - Department of Electrical Engineering and Information Engineering",
+      "university": "Munich University of Technology",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "München",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-teaching-qualification-for-vocational-schools-master-in-integrated-vocational-education-department-of-electrical-engineering-and-information-engineering-w57560/?hec-id=w57560",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-teaching-qualification-for-vocational-schools-master-in-integrated-vocational-education-department-of-electrical-engineering-and-information-engineering-w57560/?hec-id=w57560",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w16829",
+      "title": "Electrical and Electronic Engineering",
+      "university": "Osnabrück University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Osnabrück",
+      "studyMode": "full time",
+      "deadlines": "7 days left (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/osnabrueck-university-of-applied-sciences-electrical-and-electronic-engineering-w16829/?hec-id=w16829",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/osnabrueck-university-of-applied-sciences-electrical-and-electronic-engineering-w16829/?hec-id=w16829",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w26694",
+      "title": "Teaching Qualification for Vocational Schools - study component Electrical Engineering",
+      "university": "Osnabrück University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Osnabrück",
+      "studyMode": "full time",
+      "deadlines": "September 2026 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/osnabrueck-university-of-applied-sciences-teaching-qualification-for-vocational-schools-study-component-electrical-engineering-w26694/?hec-id=w26694",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/osnabrueck-university-of-applied-sciences-teaching-qualification-for-vocational-schools-study-component-electrical-engineering-w26694/?hec-id=w26694",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w64209",
+      "title": "Electrical and Information Engineering",
+      "university": "Ostbayerische Technische Hochschule Regensburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Regensburg",
+      "studyMode": "dual system, including practical semester, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ostbayerische-technische-hochschule-regensburg-electrical-and-information-engineering-w64209/?hec-id=w64209",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ostbayerische-technische-hochschule-regensburg-electrical-and-information-engineering-w64209/?hec-id=w64209",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w6530",
+      "title": "Electrical and Microsystems Engineering",
+      "university": "Ostbayerische Technische Hochschule Regensburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Regensburg",
+      "studyMode": "dual system, international course, including practical semester, full time",
+      "deadlines": "May 2026 (Aptitude test) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ostbayerische-technische-hochschule-regensburg-electrical-and-microsystems-engineering-w6530/?hec-id=w6530",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ostbayerische-technische-hochschule-regensburg-electrical-and-microsystems-engineering-w6530/?hec-id=w6530",
+      "termHits": [
+        "electrical engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w42231",
+      "title": "Electrical engineering",
+      "university": "Paderborn University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Paderborn",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-engineering-w42231/?hec-id=w42231",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-engineering-w42231/?hec-id=w42231",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w46691",
+      "title": "Electrical engineering",
+      "university": "Paderborn University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Paderborn",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-engineering-w46691/?hec-id=w46691",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-engineering-w46691/?hec-id=w46691",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w6725",
+      "title": "Electrical engineering",
+      "university": "Paderborn University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Paderborn",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-engineering-w6725/?hec-id=w6725",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-engineering-w6725/?hec-id=w6725",
+      "termHits": [
+        "electrical engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w35430",
+      "title": "Electrical Systems Engineering",
+      "university": "Paderborn University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Paderborn",
+      "studyMode": "international course, full time",
+      "deadlines": "29 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-systems-engineering-w35430/?hec-id=w35430",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/paderborn-university-electrical-systems-engineering-w35430/?hec-id=w35430",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w32809",
+      "title": "Electrical Engineering and Embedded Systems",
+      "university": "Ravensburg-Weingarten University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Weingarten",
+      "studyMode": "international course, full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | April 2026 (EU) | April 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ravensburg-weingarten-university-of-applied-sciences-electrical-engineering-and-embedded-systems-w32809/?hec-id=w32809",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ravensburg-weingarten-university-of-applied-sciences-electrical-engineering-and-embedded-systems-w32809/?hec-id=w32809",
+      "termHits": [
+        "electrical engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w19885",
+      "title": "Electrical & Computer Engineering",
+      "university": "Rhineland-Palatinate Technical University of Kaiserslautern-Landau",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "international course, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-electrical-computer-engineering-w19885/?hec-id=w19885",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-electrical-computer-engineering-w19885/?hec-id=w19885",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w21747",
+      "title": "Industrial Engineering/Electrical and Electronic Engineering",
+      "university": "Rhineland-Palatinate Technical University of Kaiserslautern-Landau",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-industrial-engineeringelectrical-and-electronic-engineering-w21747/?hec-id=w21747",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-industrial-engineeringelectrical-and-electronic-engineering-w21747/?hec-id=w21747",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w21692",
+      "title": "Software Engineering for Embedded Systems",
+      "university": "Rhineland-Palatinate Technical University of Kaiserslautern-Landau",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "part time degree programmes for professionals, distance studies, part time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-software-engineering-for-embedded-systems-w21692/?hec-id=w21692",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-software-engineering-for-embedded-systems-w21692/?hec-id=w21692",
+      "termHits": [
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w64333",
+      "title": "Career-integrated Engineering degree course in Electrical Engineering and Management",
+      "university": "RhineMain University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Rüsselsheim",
+      "studyMode": "part time degree programmes for professionals",
+      "deadlines": "March 2026 (Germans and inhabitants) | 9 days left (EU) | 9 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhinemain-university-career-integrated-engineering-degree-course-in-electrical-engineering-and-management-w64333/?hec-id=w64333",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhinemain-university-career-integrated-engineering-degree-course-in-electrical-engineering-and-management-w64333/?hec-id=w64333",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w62959",
+      "title": "Electrical Engineering - Connected Systems",
+      "university": "RhineMain University",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Rüsselsheim",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | 9 days left (EU) | 9 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhinemain-university-electrical-engineering-connected-systems-w62959/?hec-id=w62959",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhinemain-university-electrical-engineering-connected-systems-w62959/?hec-id=w62959",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w19063",
+      "title": "Electrical engineering and information engineering",
+      "university": "Ruhr University Bochum",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Bochum",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ruhr-university-bochum-electrical-engineering-and-information-engineering-w19063/?hec-id=w19063",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ruhr-university-bochum-electrical-engineering-and-information-engineering-w19063/?hec-id=w19063",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w23954",
+      "title": "Automation Engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-automation-engineering-w23954/?hec-id=w23954",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-automation-engineering-w23954/?hec-id=w23954",
+      "termHits": [
+        "electrical engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w44767",
+      "title": "Communications engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-communications-engineering-w44767/?hec-id=w44767",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-communications-engineering-w44767/?hec-id=w44767",
+      "termHits": [
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w35380",
+      "title": "Electrical and Electronic Engineering and Information Engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-electrical-and-electronic-engineering-and-information-engineering-w35380/?hec-id=w35380",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-electrical-and-electronic-engineering-and-information-engineering-w35380/?hec-id=w35380",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w44759",
+      "title": "Electrical engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-electrical-engineering-w44759/?hec-id=w44759",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-electrical-engineering-w44759/?hec-id=w44759",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w32511",
+      "title": "Industrial Engineering / Electrical Energy Engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-industrial-engineering-electrical-energy-engineering-w32511/?hec-id=w32511",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-industrial-engineering-electrical-energy-engineering-w32511/?hec-id=w32511",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w58645",
+      "title": "Embedded Systems",
+      "university": "Saarland University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Saarbrücken",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-embedded-systems-w58645/?hec-id=w58645",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-embedded-systems-w58645/?hec-id=w58645",
+      "termHits": [
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w23081",
+      "title": "Electrical Engineering - Renewable Energy Sources and Systems Engineering (German-French degree programme)",
+      "university": "Saarland University of Applied Sciences, University of Technology and Economics",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Saarbrücken",
+      "studyMode": "dual system, international course, including practical semester, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-of-applied-sciences-university-of-technology-and-economics-electrical-engineering-renewable-energy-sources-and-systems-engineering-german-french-degree-programme-w23081/?hec-id=w23081",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-of-applied-sciences-university-of-technology-and-economics-electrical-engineering-renewable-energy-sources-and-systems-engineering-german-french-degree-programme-w23081/?hec-id=w23081",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w12524",
+      "title": "Electrical, Electronic & Information Engineering",
+      "university": "Saarland University of Applied Sciences, University of Technology and Economics",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Saarbrücken",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-of-applied-sciences-university-of-technology-and-economics-electrical-electronic-information-engineering-w12524/?hec-id=w12524",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-of-applied-sciences-university-of-technology-and-economics-electrical-electronic-information-engineering-w12524/?hec-id=w12524",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w34677",
+      "title": "Electrical and Electronic Engineering",
+      "university": "South Westphalia University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Meschede",
+      "studyMode": "full time",
+      "deadlines": "8 days left (Germans and inhabitants) | 8 days left (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/south-westphalia-university-of-applied-sciences-electrical-and-electronic-engineering-w34677/?hec-id=w34677",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/south-westphalia-university-of-applied-sciences-electrical-and-electronic-engineering-w34677/?hec-id=w34677",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w41827",
+      "title": "Electrical Engineering (career-integrated combined degree course)",
+      "university": "South Westphalia University of Applied Sciences",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Hagen",
+      "studyMode": "part time degree programmes for professionals",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/south-westphalia-university-of-applied-sciences-electrical-engineering-career-integrated-combined-degree-course-w41827/?hec-id=w41827",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/south-westphalia-university-of-applied-sciences-electrical-engineering-career-integrated-combined-degree-course-w41827/?hec-id=w41827",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w18376",
+      "title": "electrical and information technology",
+      "university": "Technical University Braunschweig",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Braunschweig",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-electrical-and-information-technology-w18376/?hec-id=w18376",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-electrical-and-information-technology-w18376/?hec-id=w18376",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w44514",
+      "title": "Electronic Systems in Automotive, Aeronautical and Aerospace Engineering",
+      "university": "Technical University Braunschweig",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Braunschweig",
+      "studyMode": "part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-electronic-systems-in-automotive-aeronautical-and-aerospace-engineering-w44514/?hec-id=w44514",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-electronic-systems-in-automotive-aeronautical-and-aerospace-engineering-w44514/?hec-id=w44514",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w18822",
+      "title": "Industrial Engineering/Electrical Engineering",
+      "university": "Technical University Braunschweig",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Braunschweig",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-industrial-engineeringelectrical-engineering-w18822/?hec-id=w18822",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-industrial-engineeringelectrical-engineering-w18822/?hec-id=w18822",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w67867",
+      "title": "Quantum Technologies in Electrical and Computer Engineering",
+      "university": "Technical University Braunschweig",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Braunschweig",
+      "studyMode": "part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-quantum-technologies-in-electrical-and-computer-engineering-w67867/?hec-id=w67867",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-quantum-technologies-in-electrical-and-computer-engineering-w67867/?hec-id=w67867",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w61781",
+      "title": "Control, Computer and Communications Engineering",
+      "university": "Technical University of Applied Sciences of Central Hesse - THM",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Gießen, Friedberg",
+      "studyMode": "international course, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-of-central-hesse-thm-control-computer-and-communications-engineering-w61781/?hec-id=w61781",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-of-central-hesse-thm-control-computer-and-communications-engineering-w61781/?hec-id=w61781",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w41244",
+      "title": "Electrical, Electronic and Information Engineering",
+      "university": "Technical University of Applied Sciences of Central Hesse - THM",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Gießen, Friedberg",
+      "studyMode": "full time",
+      "deadlines": "9 days left (Germans and inhabitants) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-of-central-hesse-thm-electrical-electronic-and-information-engineering-w41244/?hec-id=w41244",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-of-central-hesse-thm-electrical-electronic-and-information-engineering-w41244/?hec-id=w41244",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w26961",
+      "title": "Electrical, Electronic & Information Engineering",
+      "university": "Technical University of Applied Sciences Würzburg-Schweinfurt",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Schweinfurt",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-wuerzburg-schweinfurt-electrical-electronic-information-engineering-w26961/?hec-id=w26961",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-wuerzburg-schweinfurt-electrical-electronic-information-engineering-w26961/?hec-id=w26961",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w17895",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "Technical University of Darmstadt",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-electrical-engineering-and-information-technology-w17895/?hec-id=w17895",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-electrical-engineering-and-information-technology-w17895/?hec-id=w17895",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w17190",
+      "title": "Industrial Engineering - technical specialisation Electrical Engineering",
+      "university": "Technical University of Darmstadt",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-industrial-engineering-technical-specialisation-electrical-engineering-w17190/?hec-id=w17190",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-industrial-engineering-technical-specialisation-electrical-engineering-w17190/?hec-id=w17190",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w21011",
+      "title": "electrical and information technology",
+      "university": "Technical University of Hamburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hamburg",
+      "studyMode": "dual system, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-hamburg-electrical-and-information-technology-w21011/?hec-id=w21011",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-hamburg-electrical-and-information-technology-w21011/?hec-id=w21011",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w16840",
+      "title": "Electrical engineering",
+      "university": "Technische Hochschule Bingen",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Bingen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | 8 days left (EU) | 8 days left (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-bingen-electrical-engineering-w16840/?hec-id=w16840",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-bingen-electrical-engineering-w16840/?hec-id=w16840",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w7400",
+      "title": "Electrical and Information Engineering",
+      "university": "Technische Hochschule Deggendorf",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Deggendorf",
+      "studyMode": "international course, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-deggendorf-electrical-and-information-engineering-w7400/?hec-id=w7400",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-deggendorf-electrical-and-information-engineering-w7400/?hec-id=w7400",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w42753",
+      "title": "Electrical, Electronic and Information Engineering",
+      "university": "Technische Hochschule Georg Agricola",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Bochum",
+      "studyMode": "part time degree programmes for professionals, part time, full time",
+      "deadlines": "August 2026 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-georg-agricola-electrical-electronic-and-information-engineering-w42753/?hec-id=w42753",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-georg-agricola-electrical-electronic-and-information-engineering-w42753/?hec-id=w42753",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w42370",
+      "title": "Electrical and Electronic Engineering and Electromobility",
+      "university": "Technische Hochschule Ingolstadt",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Ingolstadt",
+      "studyMode": "dual system, full time",
+      "deadlines": "8 days left (Germans and inhabitants) | 8 days left (EU) | 8 days left (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-ingolstadt-electrical-and-electronic-engineering-and-electromobility-w42370/?hec-id=w42370",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-ingolstadt-electrical-and-electronic-engineering-and-electromobility-w42370/?hec-id=w42370",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w6299",
+      "title": "electrical and information technology",
+      "university": "Technische Hochschule Köln",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Köln",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | June 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-koeln-electrical-and-information-technology-w6299/?hec-id=w6299",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-koeln-electrical-and-information-technology-w6299/?hec-id=w6299",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w63883",
+      "title": "Electrical Traffic Systems",
+      "university": "Technische Universität Dresden",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dresden",
+      "studyMode": "part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-dresden-electrical-traffic-systems-w63883/?hec-id=w63883",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-dresden-electrical-traffic-systems-w63883/?hec-id=w63883",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w28217",
+      "title": "Electrical Energy Systems",
+      "university": "Technische Universität Ilmenau",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Ilmenau",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | May 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-ilmenau-electrical-energy-systems-w28217/?hec-id=w28217",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-ilmenau-electrical-energy-systems-w28217/?hec-id=w28217",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w20453",
+      "title": "Electrical engineering and information technology",
+      "university": "Technische Universität Ilmenau",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Ilmenau",
+      "studyMode": "international course, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | 23 days left (EU) | May 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-ilmenau-electrical-engineering-and-information-technology-w20453/?hec-id=w20453",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-ilmenau-electrical-engineering-and-information-technology-w20453/?hec-id=w20453",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w73173",
+      "title": "Electrical and Electronic Engineering",
+      "university": "Trier University - Trier University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Trier",
+      "studyMode": "dual system, including practical semester, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/trier-university-trier-university-of-applied-sciences-electrical-and-electronic-engineering-w73173/?hec-id=w73173",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/trier-university-trier-university-of-applied-sciences-electrical-and-electronic-engineering-w73173/?hec-id=w73173",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w7906",
+      "title": "Electrical and Electronic Engineering",
+      "university": "Trier University - Trier University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Trier",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/trier-university-trier-university-of-applied-sciences-electrical-and-electronic-engineering-w7906/?hec-id=w7906",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/trier-university-trier-university-of-applied-sciences-electrical-and-electronic-engineering-w7906/?hec-id=w7906",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w18618",
+      "title": "electrical and information technology",
+      "university": "TU Dortmund University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dortmund",
+      "studyMode": "full time",
+      "deadlines": "expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-electrical-and-information-technology-w18618/?hec-id=w18618",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-electrical-and-information-technology-w18618/?hec-id=w18618",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w46526",
+      "title": "Electrical Engineering",
+      "university": "TU Dortmund University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dortmund",
+      "studyMode": "full time",
+      "deadlines": "expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-electrical-engineering-w46526/?hec-id=w46526",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-electrical-engineering-w46526/?hec-id=w46526",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w47554",
+      "title": "Professional Training in Electrical and Electronic Engineering",
+      "university": "TU Dortmund University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dortmund",
+      "studyMode": "full time",
+      "deadlines": "expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-professional-training-in-electrical-and-electronic-engineering-w47554/?hec-id=w47554",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-professional-training-in-electrical-and-electronic-engineering-w47554/?hec-id=w47554",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w37995",
+      "title": "Electrical Energy Systems and Electromobility",
+      "university": "Ulm University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Ulm",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ulm-university-of-applied-sciences-electrical-energy-systems-and-electromobility-w37995/?hec-id=w37995",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ulm-university-of-applied-sciences-electrical-energy-systems-and-electromobility-w37995/?hec-id=w37995",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w53976",
+      "title": "Higher Teaching Qualification at Vocational Schools - Engineering Education (Electrical Energy Engineering/Physics)",
+      "university": "Universities of Education, Freiburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Freiburg",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/universities-of-education-freiburg-higher-teaching-qualification-at-vocational-schools-engineering-education-electrical-energy-engineeringphysics-w53976/?hec-id=w53976",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/universities-of-education-freiburg-higher-teaching-qualification-at-vocational-schools-engineering-education-electrical-energy-engineeringphysics-w53976/?hec-id=w53976",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w38571",
+      "title": "Higher Teaching Qualification at Vocational Schools - Engineering Pedagogy (Electrical Engineering/Information Engineering)",
+      "university": "Universities of Education, Freiburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Freiburg",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/universities-of-education-freiburg-higher-teaching-qualification-at-vocational-schools-engineering-pedagogy-electrical-engineeringinformation-engineering-w38571/?hec-id=w38571",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/universities-of-education-freiburg-higher-teaching-qualification-at-vocational-schools-engineering-pedagogy-electrical-engineeringinformation-engineering-w38571/?hec-id=w38571",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w73846",
+      "title": "Electrical and Electronic Engineering",
+      "university": "University of Aalen - Engineering and Business",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Aalen",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-aalen-engineering-and-business-electrical-and-electronic-engineering-w73846/?hec-id=w73846",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-aalen-engineering-and-business-electrical-and-electronic-engineering-w73846/?hec-id=w73846",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w49605",
+      "title": "Electrical Energy Systems and Electromobility",
+      "university": "University of Applied Sciences and Arts in Hannover",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Hannover",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-in-hannover-electrical-energy-systems-and-electromobility-w49605/?hec-id=w49605",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-in-hannover-electrical-energy-systems-and-electromobility-w49605/?hec-id=w49605",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w10751",
+      "title": "Sensor and Automation Engineering",
+      "university": "University of Applied Sciences and Arts in Hannover",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Hannover",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-in-hannover-sensor-and-automation-engineering-w10751/?hec-id=w10751",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-in-hannover-sensor-and-automation-engineering-w10751/?hec-id=w10751",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w45679",
+      "title": "Electrical engineering",
+      "university": "University of Applied Sciences and Arts Ostwestfalen-Lippe",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Lemgo",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | October 2026 (EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-ostwestfalen-lippe-electrical-engineering-w45679/?hec-id=w45679",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-ostwestfalen-lippe-electrical-engineering-w45679/?hec-id=w45679",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w17751",
+      "title": "Electrical Engineering – postgraduate",
+      "university": "University of Applied Sciences Darmstadt",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Darmstadt",
+      "studyMode": "part time degree programmes for professionals, distance studies",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-darmstadt-electrical-engineering-postgraduate-w17751/?hec-id=w17751",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-darmstadt-electrical-engineering-postgraduate-w17751/?hec-id=w17751",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w5703",
+      "title": "Electrical Engineering and Information Technology (4 semesters)",
+      "university": "University of Applied Sciences Darmstadt",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "dual system, international course, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-darmstadt-electrical-engineering-and-information-technology-4-semesters-w5703/?hec-id=w5703",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-darmstadt-electrical-engineering-and-information-technology-4-semesters-w5703/?hec-id=w5703",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w45305",
+      "title": "Automation Engineering and Robotics",
+      "university": "University of Applied Sciences Kempten",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kempten",
+      "studyMode": "dual system, including practical semester, part time, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-kempten-automation-engineering-and-robotics-w45305/?hec-id=w45305",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-kempten-automation-engineering-and-robotics-w45305/?hec-id=w45305",
+      "termHits": [
+        "electrical engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w29726",
+      "title": "Electrical Engineering",
+      "university": "University of Applied Sciences Kempten",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kempten",
+      "studyMode": "dual system, international course, part time, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-kempten-electrical-engineering-w29726/?hec-id=w29726",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-kempten-electrical-engineering-w29726/?hec-id=w29726",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w16832",
+      "title": "Electrical Engineering /Information Engineering",
+      "university": "University of Applied Sciences Offenburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Offenburg",
+      "studyMode": "full time",
+      "deadlines": "January 2027 (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-offenburg-electrical-engineering-information-engineering-w16832/?hec-id=w16832",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-offenburg-electrical-engineering-information-engineering-w16832/?hec-id=w16832",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w15540",
+      "title": "Professional Training - Electrical Engineering/Information Engineering",
+      "university": "University of Applied Sciences Offenburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Offenburg",
+      "studyMode": "full time",
+      "deadlines": "January 2027 (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-offenburg-professional-training-electrical-engineeringinformation-engineering-w15540/?hec-id=w15540",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-offenburg-professional-training-electrical-engineeringinformation-engineering-w15540/?hec-id=w15540",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w66513",
+      "title": "Electrical and Electronic Engineering and Information Systems Technology",
+      "university": "University of Bayreuth",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Bayreuth",
+      "studyMode": "part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bayreuth-electrical-and-electronic-engineering-and-information-systems-technology-w66513/?hec-id=w66513",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bayreuth-electrical-and-electronic-engineering-and-information-systems-technology-w66513/?hec-id=w66513",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w65251",
+      "title": "Electrical and Electronic Engineering, Vocational Training",
+      "university": "University of Bayreuth",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Bayreuth",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bayreuth-electrical-and-electronic-engineering-vocational-training-w65251/?hec-id=w65251",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bayreuth-electrical-and-electronic-engineering-vocational-training-w65251/?hec-id=w65251",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w30757",
+      "title": "Electrical engineering and information technology",
+      "university": "University of Bremen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Bremen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bremen-electrical-engineering-and-information-technology-w30757/?hec-id=w30757",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bremen-electrical-engineering-and-information-technology-w30757/?hec-id=w30757",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w49899",
+      "title": "Industrial Engineering - Electrical Engineering and Information Engineering",
+      "university": "University of Bremen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Bremen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bremen-industrial-engineering-electrical-engineering-and-information-engineering-w49899/?hec-id=w49899",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-bremen-industrial-engineering-electrical-engineering-and-information-engineering-w49899/?hec-id=w49899",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w48524",
+      "title": "Communications Engineering, ISE",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Duisburg",
+      "studyMode": "international course, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-communications-engineering-ise-w48524/?hec-id=w48524",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-communications-engineering-ise-w48524/?hec-id=w48524",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w45272",
+      "title": "Electrical and information technology - distance learning",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Duisburg",
+      "studyMode": "distance studies, part time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-electrical-and-information-technology-distance-learning-w45272/?hec-id=w45272",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-electrical-and-information-technology-distance-learning-w45272/?hec-id=w45272",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w16847",
+      "title": "Electrical engineering",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Duisburg",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-electrical-engineering-w16847/?hec-id=w16847",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-electrical-engineering-w16847/?hec-id=w16847",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "embedded systems",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w42759",
+      "title": "Electrical engineering",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "7 semesters",
+      "location": "Duisburg",
+      "studyMode": "part time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-electrical-engineering-w42759/?hec-id=w42759",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-electrical-engineering-w42759/?hec-id=w42759",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "embedded systems",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w48523",
+      "title": "Embedded Systems Engineering, ISE",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Duisburg",
+      "studyMode": "international course, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-embedded-systems-engineering-ise-w48523/?hec-id=w48523",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-embedded-systems-engineering-ise-w48523/?hec-id=w48523",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w48522",
+      "title": "Power Engineering, ISE",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Duisburg",
+      "studyMode": "international course, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-power-engineering-ise-w48522/?hec-id=w48522",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-power-engineering-ise-w48522/?hec-id=w48522",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w65265",
+      "title": "Higher Teaching Qualification for Vocational Schools - Electrical and Information Technology",
+      "university": "University of Education, Karlsruhe",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "full time",
+      "deadlines": "November 2026 (Germans and inhabitants) | expired (EU) | expired (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-education-karlsruhe-higher-teaching-qualification-for-vocational-schools-electrical-and-information-technology-w65265/?hec-id=w65265",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-education-karlsruhe-higher-teaching-qualification-for-vocational-schools-electrical-and-information-technology-w65265/?hec-id=w65265",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w9905",
+      "title": "Power and Automation Engineering",
+      "university": "University of Education, Schwäbisch Gmünd",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Schwäbisch Gmünd",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-education-schwaebisch-gmuend-power-and-automation-engineering-w9905/?hec-id=w9905",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-education-schwaebisch-gmuend-power-and-automation-engineering-w9905/?hec-id=w9905",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w61247",
+      "title": "Electrical and Electronic Engineering",
+      "university": "University of Erfurt",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Erfurt",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-erfurt-electrical-and-electronic-engineering-w61247/?hec-id=w61247",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-erfurt-electrical-and-electronic-engineering-w61247/?hec-id=w61247",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w32078",
+      "title": "Electrical engineering, electronics and information technology",
+      "university": "University of Erlangen-Nuremberg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Erlangen",
+      "studyMode": "part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-erlangen-nuremberg-electrical-engineering-electronics-and-information-technology-w32078/?hec-id=w32078",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-erlangen-nuremberg-electrical-engineering-electronics-and-information-technology-w32078/?hec-id=w32078",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w40759",
+      "title": "Embedded Systems Engineering",
+      "university": "University of Freiburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Freiburg",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-freiburg-embedded-systems-engineering-w40759/?hec-id=w40759",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-freiburg-embedded-systems-engineering-w40759/?hec-id=w40759",
+      "termHits": [
+        "electrical engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w29125",
+      "title": "Professional and work-based learning studies in the professional subject areas Electrical and Electronic Engineering and Metals Technology",
+      "university": "University of Giessen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Gießen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-giessen-professional-and-work-based-learning-studies-in-the-professional-subject-areas-electrical-and-electronic-engineering-and-metals-technology-w29125/?hec-id=w29125",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-giessen-professional-and-work-based-learning-studies-in-the-professional-subject-areas-electrical-and-electronic-engineering-and-metals-technology-w29125/?hec-id=w29125",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w68031",
+      "title": "Electrical Engineering/Information Engineering",
+      "university": "University of Hamburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hamburg",
+      "studyMode": "part time, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hamburg-electrical-engineeringinformation-engineering-w68031/?hec-id=w68031",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hamburg-electrical-engineeringinformation-engineering-w68031/?hec-id=w68031",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w22132",
+      "title": "Electrical Engineering",
+      "university": "University of Hannover",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hannover",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-electrical-engineering-w22132/?hec-id=w22132",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-electrical-engineering-w22132/?hec-id=w22132",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w6284",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "University of Hannover",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hannover",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-electrical-engineering-and-information-technology-w6284/?hec-id=w6284",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-electrical-engineering-and-information-technology-w6284/?hec-id=w6284",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w45306",
+      "title": "Power Engineering",
+      "university": "University of Hannover",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hannover",
+      "studyMode": "international course, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-power-engineering-w45306/?hec-id=w45306",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-power-engineering-w45306/?hec-id=w45306",
+      "termHits": [
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w6991",
+      "title": "Electrical Communication Engineering",
+      "university": "University of Kassel",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kassel",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-electrical-communication-engineering-w6991/?hec-id=w6991",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-electrical-communication-engineering-w6991/?hec-id=w6991",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w8351",
+      "title": "Vocational Eduction - Subject area Metal Engineering and Electrical Engineering",
+      "university": "University of Kassel",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Kassel",
+      "studyMode": "full time",
+      "deadlines": "9 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-vocational-eduction-subject-area-metal-engineering-and-electrical-engineering-w8351/?hec-id=w8351",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-vocational-eduction-subject-area-metal-engineering-and-electrical-engineering-w8351/?hec-id=w8351",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w32036",
+      "title": "Electrical Engineering (Teaching Qualification for Vocational Training Schools)",
+      "university": "University of Koblenz",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Koblenz",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-koblenz-electrical-engineering-teaching-qualification-for-vocational-training-schools-w32036/?hec-id=w32036",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-koblenz-electrical-engineering-teaching-qualification-for-vocational-training-schools-w32036/?hec-id=w32036",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w32985",
+      "title": "Electrical and Electronics Engineering",
+      "university": "University of Magdeburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Magdeburg",
+      "studyMode": "part time, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-electrical-and-electronics-engineering-w32985/?hec-id=w32985",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-electrical-and-electronics-engineering-w32985/?hec-id=w32985",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w33282",
+      "title": "Electrical Engineering and Information Engineering",
+      "university": "University of Magdeburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Magdeburg",
+      "studyMode": "part time, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-electrical-engineering-and-information-engineering-w33282/?hec-id=w33282",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-electrical-engineering-and-information-engineering-w33282/?hec-id=w33282",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w14509",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "University of Magdeburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Magdeburg",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "September 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-electrical-engineering-and-information-technology-w14509/?hec-id=w14509",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-electrical-engineering-and-information-technology-w14509/?hec-id=w14509",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w33287",
+      "title": "Industrial Engineering for Electrical Engineering and Information Engineering",
+      "university": "University of Magdeburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Magdeburg",
+      "studyMode": "part time, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-industrial-engineering-for-electrical-engineering-and-information-engineering-w33287/?hec-id=w33287",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-magdeburg-industrial-engineering-for-electrical-engineering-and-information-engineering-w33287/?hec-id=w33287",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w15636",
+      "title": "Electrical and Electronic Engineering (Teaching Qualification for Vocational Training Schools)",
+      "university": "University of Osnabrück",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Osnabrück",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-osnabrueck-electrical-and-electronic-engineering-teaching-qualification-for-vocational-training-schools-w15636/?hec-id=w15636",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-osnabrueck-electrical-and-electronic-engineering-teaching-qualification-for-vocational-training-schools-w15636/?hec-id=w15636",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w30878",
+      "title": "Electrical and Electronic Engineering (Teaching Qualification for Vocational Training Schools)",
+      "university": "University of Osnabrück",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Osnabrück",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-osnabrueck-electrical-and-electronic-engineering-teaching-qualification-for-vocational-training-schools-w30878/?hec-id=w30878",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-osnabrueck-electrical-and-electronic-engineering-teaching-qualification-for-vocational-training-schools-w30878/?hec-id=w30878",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w52730",
+      "title": "Electrical Engineering",
+      "university": "University of Rostock",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Rostock",
+      "studyMode": "international course, full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | May 2026 (EU) | May 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-electrical-engineering-w52730/?hec-id=w52730",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-electrical-engineering-w52730/?hec-id=w52730",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w19508",
+      "title": "Electrical engineering",
+      "university": "University of Rostock",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Rostock",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | May 2026 (EU) | May 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-electrical-engineering-w19508/?hec-id=w19508",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-electrical-engineering-w19508/?hec-id=w19508",
+      "termHits": [
+        "electrical engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w66145",
+      "title": "Electrical Engineering (Teaching Qualification in Vocational Education)",
+      "university": "University of Rostock",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Rostock",
+      "studyMode": "full time",
+      "deadlines": "September 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-electrical-engineering-teaching-qualification-in-vocational-education-w66145/?hec-id=w66145",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-electrical-engineering-teaching-qualification-in-vocational-education-w66145/?hec-id=w66145",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w20375",
+      "title": "Electrical / Electronic Engineering",
+      "university": "University of Siegen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Siegen",
+      "studyMode": "international course, full time",
+      "deadlines": "expired (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-siegen-electrical-electronic-engineering-w20375/?hec-id=w20375",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-siegen-electrical-electronic-engineering-w20375/?hec-id=w20375",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w47874",
+      "title": "Electrical engineering",
+      "university": "University of Siegen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Siegen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-siegen-electrical-engineering-w47874/?hec-id=w47874",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-siegen-electrical-engineering-w47874/?hec-id=w47874",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w6113",
+      "title": "Electrical Engineering",
+      "university": "University of Stralsund",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Stralsund",
+      "studyMode": "dual system, including practical semester, part time, full time",
+      "deadlines": "8 days left (Germans and inhabitants) | 8 days left (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stralsund-electrical-engineering-w6113/?hec-id=w6113",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stralsund-electrical-engineering-w6113/?hec-id=w6113",
+      "termHits": [
+        "electrical engineering",
+        "power engineering"
+      ]
+    },
+    {
+      "id": "w62767",
+      "title": "Electrical Engineering",
+      "university": "University of Stuttgart",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-electrical-engineering-w62767/?hec-id=w62767",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-electrical-engineering-w62767/?hec-id=w62767",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w28010",
+      "title": "Electrical Engineering and Information Technology",
+      "university": "University of Stuttgart",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-electrical-engineering-and-information-technology-w28010/?hec-id=w28010",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-electrical-engineering-and-information-technology-w28010/?hec-id=w28010",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "communication engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w39390",
+      "title": "Sustainable Electrical Power Supply",
+      "university": "University of Stuttgart",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-sustainable-electrical-power-supply-w39390/?hec-id=w39390",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-sustainable-electrical-power-supply-w39390/?hec-id=w39390",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w16984",
+      "title": "Electrical and Information Technology",
+      "university": "University of Ulm",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Ulm",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-ulm-electrical-and-information-technology-w16984/?hec-id=w16984",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-ulm-electrical-and-information-technology-w16984/?hec-id=w16984",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w42354",
+      "title": "Automation Engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Wuppertal",
+      "studyMode": "full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-automation-engineering-w42354/?hec-id=w42354",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-automation-engineering-w42354/?hec-id=w42354",
+      "termHits": [
+        "electrical engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w52286",
+      "title": "Automation Engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Wuppertal",
+      "studyMode": "dual system, including practical semester, part time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-automation-engineering-w52286/?hec-id=w52286",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-automation-engineering-w52286/?hec-id=w52286",
+      "termHits": [
+        "electrical engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w29864",
+      "title": "Communications Engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Wuppertal",
+      "studyMode": "full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-communications-engineering-w29864/?hec-id=w29864",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-communications-engineering-w29864/?hec-id=w29864",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w52291",
+      "title": "Communications Engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Wuppertal",
+      "studyMode": "dual system, including practical semester, part time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-communications-engineering-w52291/?hec-id=w52291",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-communications-engineering-w52291/?hec-id=w52291",
+      "termHits": [
+        "electrical engineering",
+        "communication engineering"
+      ]
+    },
+    {
+      "id": "w17178",
+      "title": "Electrical engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Wuppertal",
+      "studyMode": "full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-electrical-engineering-w17178/?hec-id=w17178",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-electrical-engineering-w17178/?hec-id=w17178",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w52288",
+      "title": "Electrical engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Wuppertal",
+      "studyMode": "dual system, including practical semester, part time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-electrical-engineering-w52288/?hec-id=w52288",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-electrical-engineering-w52288/?hec-id=w52288",
+      "termHits": [
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "w6917",
+      "title": "Electrical engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Wuppertal",
+      "studyMode": "full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-electrical-engineering-w6917/?hec-id=w6917",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-electrical-engineering-w6917/?hec-id=w6917",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "automation engineering",
+        "control engineering"
+      ]
+    },
+    {
+      "id": "w52528",
+      "title": "Electrical and Electronic Systems",
+      "university": "West Saxon University of Applied Sciences of Zwickau",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Zwickau",
+      "studyMode": "part time, full time",
+      "deadlines": "8 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/west-saxon-university-of-applied-sciences-of-zwickau-electrical-and-electronic-systems-w52528/?hec-id=w52528",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/west-saxon-university-of-applied-sciences-of-zwickau-electrical-and-electronic-systems-w52528/?hec-id=w52528",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w51103",
+      "title": "Automation Engineering",
+      "university": "Westcoast University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Heide",
+      "studyMode": "part time, full time",
+      "deadlines": "August 2026 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/westcoast-university-of-applied-sciences-automation-engineering-w51103/?hec-id=w51103",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/westcoast-university-of-applied-sciences-automation-engineering-w51103/?hec-id=w51103",
+      "termHits": [
+        "electrical engineering",
+        "power engineering",
+        "automation engineering"
+      ]
+    },
+    {
+      "id": "w30688",
+      "title": "Microelectronic Systems",
+      "university": "Westcoast University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Heide",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/westcoast-university-of-applied-sciences-microelectronic-systems-w30688/?hec-id=w30688",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/westcoast-university-of-applied-sciences-microelectronic-systems-w30688/?hec-id=w30688",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w55347",
+      "title": "Electrical engineering",
+      "university": "Westfälische Hochschule, University of Applied Sciences Gelsenkirchen, Bocholt, Recklinghausen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Gelsenkirchen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/westfaelische-hochschule-university-of-applied-sciences-gelsenkirchen-bocholt-recklinghausen-electrical-engineering-w55347/?hec-id=w55347",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/westfaelische-hochschule-university-of-applied-sciences-gelsenkirchen-bocholt-recklinghausen-electrical-engineering-w55347/?hec-id=w55347",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering",
+        "power engineering",
+        "automation engineering",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "w59089",
+      "title": "Electrical and Electronic Engineering",
+      "university": "Wilhelm Büchner University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Darmstadt",
+      "studyMode": "part time degree programmes for professionals, distance studies",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/wilhelm-buechner-university-of-applied-sciences-electrical-and-electronic-engineering-w59089/?hec-id=w59089",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/wilhelm-buechner-university-of-applied-sciences-electrical-and-electronic-engineering-w59089/?hec-id=w59089",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w59287",
+      "title": "Electrical and Electronic Engineering",
+      "university": "Wilhelm Büchner University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "part time degree programmes for professionals, distance studies",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/wilhelm-buechner-university-of-applied-sciences-electrical-and-electronic-engineering-w59287/?hec-id=w59287",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/wilhelm-buechner-university-of-applied-sciences-electrical-and-electronic-engineering-w59287/?hec-id=w59287",
+      "termHits": [
+        "electrical engineering",
+        "electronic engineering"
+      ]
+    },
+    {
+      "id": "w56349",
+      "title": "Embedded Systems and Digital Technologies",
+      "university": "Wilhelm Büchner University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "part time degree programmes for professionals, distance studies",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/wilhelm-buechner-university-of-applied-sciences-embedded-systems-and-digital-technologies-w56349/?hec-id=w56349",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/wilhelm-buechner-university-of-applied-sciences-embedded-systems-and-digital-technologies-w56349/?hec-id=w56349",
+      "termHits": [
+        "communication engineering",
+        "embedded systems"
+      ]
+    },
+    {
+      "id": "w32812",
+      "title": "Information and Electrical Engineering",
+      "university": "Wismar University of Applied Sciences: Technology, Business and Design",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Wismar",
+      "studyMode": "full time",
+      "deadlines": "8 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/wismar-university-of-applied-sciences-technology-business-and-design-information-and-electrical-engineering-w32812/?hec-id=w32812",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/wismar-university-of-applied-sciences-technology-business-and-design-information-and-electrical-engineering-w32812/?hec-id=w32812",
+      "termHits": [
+        "electrical engineering"
+      ]
+    }
+  ]
+}

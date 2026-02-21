@@ -1,0 +1,1569 @@
+{
+  "meta": {
+    "generatedAt": "2026-02-19T23:43:13.482Z",
+    "source": "DAAD Hochschulkompass via api.daad.de",
+    "degreeFilter": "Master (hec-degreeType=37, graduate programmes)",
+    "stream": "civil",
+    "terms": [
+      "civil engineering",
+      "construction engineering",
+      "structural engineering",
+      "geotechnical engineering",
+      "transportation engineering",
+      "water engineering",
+      "hydraulic engineering",
+      "infrastructure engineering"
+    ],
+    "totalPrograms": 89
+  },
+  "programs": [
+    {
+      "id": "w17360",
+      "title": "Civil engineering",
+      "university": "Augsburg University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Augsburg",
+      "studyMode": "dual system, part time, full time",
+      "deadlines": "expired (Aptitude test)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/augsburg-university-of-applied-sciences-civil-engineering-w17360/?hec-id=w17360",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/augsburg-university-of-applied-sciences-civil-engineering-w17360/?hec-id=w17360",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "hydraulic engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w65424",
+      "title": "Civil Engineering",
+      "university": "Baden-Wuerttemberg Cooperative State University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart, Heidenheim, Lörrach, Karlsruhe, Mannheim, Mosbach, Ravensburg, Heilbronn",
+      "studyMode": "part time degree programmes for professionals, with integrated professional experience, dual system, part time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/baden-wuerttemberg-cooperative-state-university-civil-engineering-w65424/?hec-id=w65424",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/baden-wuerttemberg-cooperative-state-university-civil-engineering-w65424/?hec-id=w65424",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w6603",
+      "title": "Civil Engineering - Structural Engineering",
+      "university": "Bauhaus-Universität Weimar",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Weimar",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bauhaus-universitaet-weimar-civil-engineering-structural-engineering-w6603/?hec-id=w6603",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bauhaus-universitaet-weimar-civil-engineering-structural-engineering-w6603/?hec-id=w6603",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w6076",
+      "title": "Management for Construction, Property, Infrastructure",
+      "university": "Bauhaus-Universität Weimar",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Weimar",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bauhaus-universitaet-weimar-management-for-construction-property-infrastructure-w6076/?hec-id=w6076",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bauhaus-universitaet-weimar-management-for-construction-property-infrastructure-w6076/?hec-id=w6076",
+      "termHits": [
+        "construction engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w35509",
+      "title": "Natural Hazards and Risks in Structural Engineering",
+      "university": "Bauhaus-Universität Weimar",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Weimar",
+      "studyMode": "international course, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bauhaus-universitaet-weimar-natural-hazards-and-risks-in-structural-engineering-w35509/?hec-id=w35509",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bauhaus-universitaet-weimar-natural-hazards-and-risks-in-structural-engineering-w35509/?hec-id=w35509",
+      "termHits": [
+        "civil engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w18841",
+      "title": "Civil engineering",
+      "university": "Berlin School of Applied Sciences (HTW)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-school-of-applied-sciences-htw-civil-engineering-w18841/?hec-id=w18841",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-school-of-applied-sciences-htw-civil-engineering-w18841/?hec-id=w18841",
+      "termHits": [
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "w12214",
+      "title": "Structural and Civil Engineering",
+      "university": "Berlin University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Berlin",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-applied-sciences-structural-and-civil-engineering-w12214/?hec-id=w12214",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-applied-sciences-structural-and-civil-engineering-w12214/?hec-id=w12214",
+      "termHits": [
+        "civil engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w12215",
+      "title": "Urban Infrastructure Planning - Traffic and Water",
+      "university": "Berlin University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Berlin",
+      "studyMode": "full time",
+      "deadlines": "June 2026 (Germans and inhabitants)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-applied-sciences-urban-infrastructure-planning-traffic-and-water-w12215/?hec-id=w12215",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-applied-sciences-urban-infrastructure-planning-traffic-and-water-w12215/?hec-id=w12215",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w23399",
+      "title": "Civil engineering",
+      "university": "Berlin University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Berlin",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-civil-engineering-w23399/?hec-id=w23399",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/berlin-university-of-technology-civil-engineering-w23399/?hec-id=w23399",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w9366",
+      "title": "Civil engineering",
+      "university": "Biberach University of Applied Sciences – Architecture and Building and Construction, Business Administration and Biotechnology",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Biberach",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/biberach-university-of-applied-sciences-architecture-and-building-and-construction-business-administration-and-biotechnology-civil-engineering-w9366/?hec-id=w9366",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/biberach-university-of-applied-sciences-architecture-and-building-and-construction-business-administration-and-biotechnology-civil-engineering-w9366/?hec-id=w9366",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w9367",
+      "title": "Civil engineering/Project management",
+      "university": "Biberach University of Applied Sciences – Architecture and Building and Construction, Business Administration and Biotechnology",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Biberach",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/biberach-university-of-applied-sciences-architecture-and-building-and-construction-business-administration-and-biotechnology-civil-engineeringproject-management-w9367/?hec-id=w9367",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/biberach-university-of-applied-sciences-architecture-and-building-and-construction-business-administration-and-biotechnology-civil-engineeringproject-management-w9367/?hec-id=w9367",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w15789",
+      "title": "Civil engineering",
+      "university": "Bochum University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Bochum",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | March 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bochum-university-of-applied-sciences-civil-engineering-w15789/?hec-id=w15789",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bochum-university-of-applied-sciences-civil-engineering-w15789/?hec-id=w15789",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w47430",
+      "title": "Civil engineering",
+      "university": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Cottbus",
+      "studyMode": "part time, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | August 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-civil-engineering-w47430/?hec-id=w47430",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/brandenburgische-technische-universitaet-cottbus-senftenberg-civil-engineering-w47430/?hec-id=w47430",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w23715",
+      "title": "Civil Engineering and Environmental Sciences",
+      "university": "Bundeswehr University Munich",
+      "degree": "Master",
+      "duration": "5 trimesters",
+      "location": "Neubiberg",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/bundeswehr-university-munich-civil-engineering-and-environmental-sciences-w23715/?hec-id=w23715",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bundeswehr-university-munich-civil-engineering-and-environmental-sciences-w23715/?hec-id=w23715",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w6151",
+      "title": "Civil engineering",
+      "university": "Fachhochschule of Erfurt",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Erfurt",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fachhochschule-of-erfurt-civil-engineering-w6151/?hec-id=w6151",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fachhochschule-of-erfurt-civil-engineering-w6151/?hec-id=w6151",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering"
+      ]
+    },
+    {
+      "id": "w65217",
+      "title": "Sustainable Engineering of Infrastructure",
+      "university": "Fachhochschule of Erfurt",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Erfurt",
+      "studyMode": "international course, full time",
+      "deadlines": "23 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fachhochschule-of-erfurt-sustainable-engineering-of-infrastructure-w65217/?hec-id=w65217",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fachhochschule-of-erfurt-sustainable-engineering-of-infrastructure-w65217/?hec-id=w65217",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w40654",
+      "title": "Civil Engineering",
+      "university": "FH Aachen - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "8 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-aachen-university-of-applied-sciences-civil-engineering-w40654/?hec-id=w40654",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-aachen-university-of-applied-sciences-civil-engineering-w40654/?hec-id=w40654",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "transportation engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w23742",
+      "title": "Civil engineering",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Münster",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-civil-engineering-w23742/?hec-id=w23742",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-civil-engineering-w23742/?hec-id=w23742",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w70185",
+      "title": "Construction Engineering - Teaching Qualification for Vocational Colleges",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Münster",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-construction-engineering-teaching-qualification-for-vocational-colleges-w70185/?hec-id=w70185",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-construction-engineering-teaching-qualification-for-vocational-colleges-w70185/?hec-id=w70185",
+      "termHits": [
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w75132",
+      "title": "Construction Engineering - Teaching Qualification for Vocational Colleges",
+      "university": "FH Münster - University of Applied Sciences",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Münster",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "8 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-construction-engineering-teaching-qualification-for-vocational-colleges-w75132/?hec-id=w75132",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fh-muenster-university-of-applied-sciences-construction-engineering-teaching-qualification-for-vocational-colleges-w75132/?hec-id=w75132",
+      "termHits": [
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w64539",
+      "title": "Infrastructure Management – Water and Transport",
+      "university": "Frankfurt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Frankfurt am Main",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-infrastructure-management-water-and-transport-w64539/?hec-id=w64539",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-infrastructure-management-water-and-transport-w64539/?hec-id=w64539",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w64540",
+      "title": "Infrastructure Management – Water and Transport",
+      "university": "Frankfurt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Frankfurt am Main",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-infrastructure-management-water-and-transport-w64540/?hec-id=w64540",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-infrastructure-management-water-and-transport-w64540/?hec-id=w64540",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w60536",
+      "title": "Structural Engineering / Construction Management",
+      "university": "Frankfurt University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Frankfurt am Main",
+      "studyMode": "full time",
+      "deadlines": "expired (EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-structural-engineering-construction-management-w60536/?hec-id=w60536",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/frankfurt-university-of-applied-sciences-structural-engineering-construction-management-w60536/?hec-id=w60536",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w17660",
+      "title": "Civil engineering",
+      "university": "Georg Simon Ohm University of Applied Sciences Nuremberg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Nürnberg",
+      "studyMode": "dual system, including practical semester, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/georg-simon-ohm-university-of-applied-sciences-nuremberg-civil-engineering-w17660/?hec-id=w17660",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/georg-simon-ohm-university-of-applied-sciences-nuremberg-civil-engineering-w17660/?hec-id=w17660",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "water engineering"
+      ]
+    },
+    {
+      "id": "w22258",
+      "title": "Civil Engineering",
+      "university": "HafenCity University of Hamburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hamburg",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hafencity-university-of-hamburg-civil-engineering-w22258/?hec-id=w22258",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hafencity-university-of-hamburg-civil-engineering-w22258/?hec-id=w22258",
+      "termHits": [
+        "civil engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w7733",
+      "title": "Civil Engineering",
+      "university": "HAWK University of Applied Sciences and Arts Hildesheim/Holzminden/Göttingen",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Hildesheim",
+      "studyMode": "full time",
+      "deadlines": "August 2026 (Germans and inhabitants) | August 2026 (EU) | August 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hawk-university-of-applied-sciences-and-arts-hildesheimholzmindengoettingen-civil-engineering-w7733/?hec-id=w7733",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hawk-university-of-applied-sciences-and-arts-hildesheimholzmindengoettingen-civil-engineering-w7733/?hec-id=w7733",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w73706",
+      "title": "Civil Engineering",
+      "university": "Higher Education Institution 21",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Buxtehude",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/higher-education-institution-21-civil-engineering-w73706/?hec-id=w73706",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/higher-education-institution-21-civil-engineering-w73706/?hec-id=w73706",
+      "termHits": [
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "w49854",
+      "title": "Resource-Efficient Planning and Building - Civil Engineering",
+      "university": "Hochschule für angewandte Wissenschaften Coburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Coburg",
+      "studyMode": "full time",
+      "deadlines": "22 days left (Germans and inhabitants) | 22 days left (EU) | 22 days left (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-angewandte-wissenschaften-coburg-resource-efficient-planning-and-building-civil-engineering-w49854/?hec-id=w49854",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-fuer-angewandte-wissenschaften-coburg-resource-efficient-planning-and-building-civil-engineering-w49854/?hec-id=w49854",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering"
+      ]
+    },
+    {
+      "id": "w23396",
+      "title": "Civil engineering",
+      "university": "Hochschule Kaiserslautern (University of Applied Sciences)",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-kaiserslautern-university-of-applied-sciences-civil-engineering-w23396/?hec-id=w23396",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-kaiserslautern-university-of-applied-sciences-civil-engineering-w23396/?hec-id=w23396",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w23005",
+      "title": "Civil Engineering - Renovation and Redevelopment of Existing Properties",
+      "university": "Hochschule Mainz",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Mainz",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-mainz-civil-engineering-renovation-and-redevelopment-of-existing-properties-w23005/?hec-id=w23005",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-mainz-civil-engineering-renovation-and-redevelopment-of-existing-properties-w23005/?hec-id=w23005",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w38011",
+      "title": "Civil Engineering - Renovation and Redevelopment of Existing Properties",
+      "university": "Hochschule Mainz",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Mainz",
+      "studyMode": "part time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-mainz-civil-engineering-renovation-and-redevelopment-of-existing-properties-w38011/?hec-id=w38011",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-mainz-civil-engineering-renovation-and-redevelopment-of-existing-properties-w38011/?hec-id=w38011",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w71019",
+      "title": "Infrastructure for sustainable neighbourhoods",
+      "university": "Hochschule Mainz",
+      "degree": "Master",
+      "duration": "5 semesters",
+      "location": "Mainz",
+      "studyMode": "part time degree programmes for professionals, part time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-mainz-infrastructure-for-sustainable-neighbourhoods-w71019/?hec-id=w71019",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-mainz-infrastructure-for-sustainable-neighbourhoods-w71019/?hec-id=w71019",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w31662",
+      "title": "Civil engineering",
+      "university": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | March 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-civil-engineering-w31662/?hec-id=w31662",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-civil-engineering-w31662/?hec-id=w31662",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "geotechnical engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w41764",
+      "title": "Functional and Structural Engineering - Engineering Structures",
+      "university": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | March 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-functional-and-structural-engineering-engineering-structures-w41764/?hec-id=w41764",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-functional-and-structural-engineering-engineering-structures-w41764/?hec-id=w41764",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w41766",
+      "title": "Mobility and Infrastructure",
+      "university": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | March 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-mobility-and-infrastructure-w41766/?hec-id=w41766",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-institute-of-technology-kit-mobility-and-infrastructure-w41766/?hec-id=w41766",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w7622",
+      "title": "Civil engineering",
+      "university": "Karlsruhe University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "international course, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-civil-engineering-w7622/?hec-id=w7622",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-civil-engineering-w7622/?hec-id=w7622",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w7623",
+      "title": "Civil Engineering  (tri-national)",
+      "university": "Karlsruhe University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Karlsruhe",
+      "studyMode": "international course, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-civil-engineering-tri-national-w7623/?hec-id=w7623",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/karlsruhe-university-of-applied-sciences-civil-engineering-tri-national-w7623/?hec-id=w7623",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w11041",
+      "title": "Civil engineering",
+      "university": "Koblenz University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Koblenz",
+      "studyMode": "full time",
+      "deadlines": "September 2026 (Germans and inhabitants) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/koblenz-university-of-applied-sciences-civil-engineering-w11041/?hec-id=w11041",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/koblenz-university-of-applied-sciences-civil-engineering-w11041/?hec-id=w11041",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering"
+      ]
+    },
+    {
+      "id": "w56649",
+      "title": "Civil engineering",
+      "university": "Leipzig University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Leipzig",
+      "studyMode": "part time degree programmes for professionals",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-civil-engineering-w56649/?hec-id=w56649",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-civil-engineering-w56649/?hec-id=w56649",
+      "termHits": [
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "w6341",
+      "title": "Civil engineering",
+      "university": "Leipzig University of Applied Sciences",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Leipzig",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-civil-engineering-w6341/?hec-id=w6341",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/leipzig-university-of-applied-sciences-civil-engineering-w6341/?hec-id=w6341",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering"
+      ]
+    },
+    {
+      "id": "w29734",
+      "title": "Civil engineering",
+      "university": "Magdeburg-Stendal University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Magdeburg",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/magdeburg-stendal-university-of-applied-sciences-civil-engineering-w29734/?hec-id=w29734",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/magdeburg-stendal-university-of-applied-sciences-civil-engineering-w29734/?hec-id=w29734",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w40874",
+      "title": "Water Engineering",
+      "university": "Magdeburg-Stendal University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Magdeburg",
+      "studyMode": "international course, full time",
+      "deadlines": "January 2027 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/magdeburg-stendal-university-of-applied-sciences-water-engineering-w40874/?hec-id=w40874",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/magdeburg-stendal-university-of-applied-sciences-water-engineering-w40874/?hec-id=w40874",
+      "termHits": [
+        "civil engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w21657",
+      "title": "Civil engineering",
+      "university": "Munich University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "München",
+      "studyMode": "part time, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-applied-sciences-civil-engineering-w21657/?hec-id=w21657",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-applied-sciences-civil-engineering-w21657/?hec-id=w21657",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w15617",
+      "title": "Civil Engineering",
+      "university": "Munich University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "München",
+      "studyMode": "international course, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-civil-engineering-w15617/?hec-id=w15617",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-civil-engineering-w15617/?hec-id=w15617",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w35374",
+      "title": "Teaching at Vocational Schools - Structural Engineering",
+      "university": "Munich University of Technology",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "München, Garching, Weihenstephan",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-teaching-at-vocational-schools-structural-engineering-w35374/?hec-id=w35374",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/munich-university-of-technology-teaching-at-vocational-schools-structural-engineering-w35374/?hec-id=w35374",
+      "termHits": [
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w21892",
+      "title": "Civil engineering",
+      "university": "Ostbayerische Technische Hochschule Regensburg",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Regensburg",
+      "studyMode": "dual system, including practical semester, full time",
+      "deadlines": "June 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ostbayerische-technische-hochschule-regensburg-civil-engineering-w21892/?hec-id=w21892",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ostbayerische-technische-hochschule-regensburg-civil-engineering-w21892/?hec-id=w21892",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w45275",
+      "title": "Civil Engineering - Infrastructure, Water and Mobility",
+      "university": "Rhineland-Palatinate Technical University of Kaiserslautern-Landau",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-civil-engineering-infrastructure-water-and-mobility-w45275/?hec-id=w45275",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-civil-engineering-infrastructure-water-and-mobility-w45275/?hec-id=w45275",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w45277",
+      "title": "Civil Engineering - Structural Engineering",
+      "university": "Rhineland-Palatinate Technical University of Kaiserslautern-Landau",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Kaiserslautern",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-civil-engineering-structural-engineering-w45277/?hec-id=w45277",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhineland-palatinate-technical-university-of-kaiserslautern-landau-civil-engineering-structural-engineering-w45277/?hec-id=w45277",
+      "termHits": [
+        "civil engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w12197",
+      "title": "Structural Civil Engineering / Building Management",
+      "university": "RhineMain University",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Wiesbaden",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | 9 days left (EU) | 9 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rhinemain-university-structural-civil-engineering-building-management-w12197/?hec-id=w12197",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rhinemain-university-structural-civil-engineering-building-management-w12197/?hec-id=w12197",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w19059",
+      "title": "Civil engineering",
+      "university": "Ruhr University Bochum",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Bochum",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ruhr-university-bochum-civil-engineering-w19059/?hec-id=w19059",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ruhr-university-bochum-civil-engineering-w19059/?hec-id=w19059",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering"
+      ]
+    },
+    {
+      "id": "w56464",
+      "title": "Civil Engineering",
+      "university": "Ruhr West University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Mülheim an der Ruhr",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | September 2026 (EU) | 23 days left (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/ruhr-west-university-of-applied-sciences-civil-engineering-w56464/?hec-id=w56464",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/ruhr-west-university-of-applied-sciences-civil-engineering-w56464/?hec-id=w56464",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w23403",
+      "title": "Civil engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-civil-engineering-w23403/?hec-id=w23403",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-civil-engineering-w23403/?hec-id=w23403",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w44769",
+      "title": "Civil Engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-civil-engineering-w44769/?hec-id=w44769",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-civil-engineering-w44769/?hec-id=w44769",
+      "termHits": [
+        "civil engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w32510",
+      "title": "Industrial Engineering / Civil Engineering",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-industrial-engineering-civil-engineering-w32510/?hec-id=w32510",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-industrial-engineering-civil-engineering-w32510/?hec-id=w32510",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering"
+      ]
+    },
+    {
+      "id": "w59098",
+      "title": "Management and Engineering in Design Concepts and Structural Engineering of Industrial Facilities",
+      "university": "RWTH Aachen University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Aachen",
+      "studyMode": "international course, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-management-and-engineering-in-design-concepts-and-structural-engineering-of-industrial-facilities-w59098/?hec-id=w59098",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rwth-aachen-university-management-and-engineering-in-design-concepts-and-structural-engineering-of-industrial-facilities-w59098/?hec-id=w59098",
+      "termHits": [
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w33611",
+      "title": "Civil engineering",
+      "university": "Saarland University of Applied Sciences, University of Technology and Economics",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Saarbrücken",
+      "studyMode": "part time, full time",
+      "deadlines": "January 2027 (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-of-applied-sciences-university-of-technology-and-economics-civil-engineering-w33611/?hec-id=w33611",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-of-applied-sciences-university-of-technology-and-economics-civil-engineering-w33611/?hec-id=w33611",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w7601",
+      "title": "Geotechnical Engineering/Tunnel Construction",
+      "university": "Stuttgart University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Stuttgart",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/stuttgart-university-of-applied-sciences-geotechnical-engineeringtunnel-construction-w7601/?hec-id=w7601",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/stuttgart-university-of-applied-sciences-geotechnical-engineeringtunnel-construction-w7601/?hec-id=w7601",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "geotechnical engineering"
+      ]
+    },
+    {
+      "id": "w23714",
+      "title": "Structural Engineering",
+      "university": "Stuttgart University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Stuttgart",
+      "studyMode": "part time, full time",
+      "deadlines": "expired (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/stuttgart-university-of-applied-sciences-structural-engineering-w23714/?hec-id=w23714",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/stuttgart-university-of-applied-sciences-structural-engineering-w23714/?hec-id=w23714",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w47555",
+      "title": "Transport Infrastructure Management",
+      "university": "Stuttgart University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Stuttgart",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/stuttgart-university-of-applied-sciences-transport-infrastructure-management-w47555/?hec-id=w47555",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/stuttgart-university-of-applied-sciences-transport-infrastructure-management-w47555/?hec-id=w47555",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w20588",
+      "title": "Civil engineering",
+      "university": "Technical University Braunschweig",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Braunschweig",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-civil-engineering-w20588/?hec-id=w20588",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-civil-engineering-w20588/?hec-id=w20588",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "hydraulic engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w20587",
+      "title": "Industrial Engineering/Civil Engineering",
+      "university": "Technical University Braunschweig",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Braunschweig",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-industrial-engineeringcivil-engineering-w20587/?hec-id=w20587",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-braunschweig-industrial-engineeringcivil-engineering-w20587/?hec-id=w20587",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "hydraulic engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w18943",
+      "title": "Civil engineering",
+      "university": "Technical University of Applied Sciences of Central Hesse - THM",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Gießen",
+      "studyMode": "full time",
+      "deadlines": "9 days left (Germans and inhabitants) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-of-central-hesse-thm-civil-engineering-w18943/?hec-id=w18943",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-applied-sciences-of-central-hesse-thm-civil-engineering-w18943/?hec-id=w18943",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w7908",
+      "title": "Civil Engineering",
+      "university": "Technical University of Darmstadt",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "international course, part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-civil-engineering-w7908/?hec-id=w7908",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-civil-engineering-w7908/?hec-id=w7908",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering"
+      ]
+    },
+    {
+      "id": "w17189",
+      "title": "Industrial Engineering - technical specialisation Civil Engineering",
+      "university": "Technical University of Darmstadt",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Darmstadt",
+      "studyMode": "part time, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-industrial-engineering-technical-specialisation-civil-engineering-w17189/?hec-id=w17189",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-industrial-engineering-technical-specialisation-civil-engineering-w17189/?hec-id=w17189",
+      "termHits": [
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "w21009",
+      "title": "Civil Engineering",
+      "university": "Technical University of Hamburg",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hamburg",
+      "studyMode": "dual system, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-hamburg-civil-engineering-w21009/?hec-id=w21009",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-hamburg-civil-engineering-w21009/?hec-id=w21009",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w40879",
+      "title": "Civil engineering",
+      "university": "Technische Hochschule Köln",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Köln",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | June 2026 (EU) | June 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-koeln-civil-engineering-w40879/?hec-id=w40879",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-koeln-civil-engineering-w40879/?hec-id=w40879",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w13854",
+      "title": "Civil engineering",
+      "university": "Technische Hochschule Lübeck",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Lübeck",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-luebeck-civil-engineering-w13854/?hec-id=w13854",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-luebeck-civil-engineering-w13854/?hec-id=w13854",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w64362",
+      "title": "Water Engineering",
+      "university": "Technische Hochschule Lübeck",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Lübeck",
+      "studyMode": "full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-luebeck-water-engineering-w64362/?hec-id=w64362",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-luebeck-water-engineering-w64362/?hec-id=w64362",
+      "termHits": [
+        "civil engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w30823",
+      "title": "Advanced Computational and Civil Engineering Structural Studies (ACCESS)",
+      "university": "Technische Universität Dresden",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dresden",
+      "studyMode": "international course, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-dresden-advanced-computational-and-civil-engineering-structural-studies-access-w30823/?hec-id=w30823",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-universitaet-dresden-advanced-computational-and-civil-engineering-structural-studies-access-w30823/?hec-id=w30823",
+      "termHits": [
+        "civil engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w25105",
+      "title": "Civil engineering",
+      "university": "Trier University - Trier University of Applied Sciences",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Trier",
+      "studyMode": "full time",
+      "deadlines": "23 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/trier-university-trier-university-of-applied-sciences-civil-engineering-w25105/?hec-id=w25105",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/trier-university-trier-university-of-applied-sciences-civil-engineering-w25105/?hec-id=w25105",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w18578",
+      "title": "Civil engineering",
+      "university": "TU Dortmund University",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Dortmund",
+      "studyMode": "full time",
+      "deadlines": "expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-civil-engineering-w18578/?hec-id=w18578",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-civil-engineering-w18578/?hec-id=w18578",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w64175",
+      "title": "Construction Engineering and Digital Construction Processes",
+      "university": "University of Applied Sciences and Arts Ostwestfalen-Lippe",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Detmold",
+      "studyMode": "full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | October 2026 (EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-ostwestfalen-lippe-construction-engineering-and-digital-construction-processes-w64175/?hec-id=w64175",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-ostwestfalen-lippe-construction-engineering-and-digital-construction-processes-w64175/?hec-id=w64175",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w64177",
+      "title": "Infrastructure Management – Water and Transport",
+      "university": "University of Applied Sciences and Arts Ostwestfalen-Lippe",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Detmold",
+      "studyMode": "part time, full time",
+      "deadlines": "October 2026 (Germans and inhabitants) | October 2026 (EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-ostwestfalen-lippe-infrastructure-management-water-and-transport-w64177/?hec-id=w64177",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-and-arts-ostwestfalen-lippe-infrastructure-management-water-and-transport-w64177/?hec-id=w64177",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w63374",
+      "title": "Civil Engineering – Sustainable Planning and Construction",
+      "university": "University of Applied Sciences Bremen",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Bremen",
+      "studyMode": "full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-bremen-civil-engineering-sustainable-planning-and-construction-w63374/?hec-id=w63374",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-bremen-civil-engineering-sustainable-planning-and-construction-w63374/?hec-id=w63374",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w12773",
+      "title": "Civil engineering",
+      "university": "University of Applied Sciences Darmstadt",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Darmstadt",
+      "studyMode": "dual system, full time",
+      "deadlines": "Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-darmstadt-civil-engineering-w12773/?hec-id=w12773",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-darmstadt-civil-engineering-w12773/?hec-id=w12773",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w70723",
+      "title": "Civil Engineering",
+      "university": "University of Applied Sciences Rosenheim",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Rosenheim",
+      "studyMode": "part time, full time",
+      "deadlines": "No information",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-rosenheim-civil-engineering-w70723/?hec-id=w70723",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-rosenheim-civil-engineering-w70723/?hec-id=w70723",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w42856",
+      "title": "Civil Engineering",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Essen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-civil-engineering-w42856/?hec-id=w42856",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-civil-engineering-w42856/?hec-id=w42856",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "hydraulic engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w42857",
+      "title": "Civil Engineering",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "6 semesters",
+      "location": "Essen",
+      "studyMode": "part time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-civil-engineering-w42857/?hec-id=w42857",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-civil-engineering-w42857/?hec-id=w42857",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "hydraulic engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w49916",
+      "title": "Civil Engineering (minor vocational subject area)",
+      "university": "University of Duisburg-Essen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Essen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-civil-engineering-minor-vocational-subject-area-w49916/?hec-id=w49916",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-duisburg-essen-civil-engineering-minor-vocational-subject-area-w49916/?hec-id=w49916",
+      "termHits": [
+        "civil engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "w63887",
+      "title": "Civil Engineering",
+      "university": "University of Hannover",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Hannover",
+      "studyMode": "distance studies, part time, full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | May 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-civil-engineering-w63887/?hec-id=w63887",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hannover-civil-engineering-w63887/?hec-id=w63887",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "water engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w123",
+      "title": "Civil engineering",
+      "university": "University of Kassel",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kassel",
+      "studyMode": "part time, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-civil-engineering-w123/?hec-id=w123",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-civil-engineering-w123/?hec-id=w123",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering"
+      ]
+    },
+    {
+      "id": "w65000",
+      "title": "Mobility, Traffic and Transport and Infrastructure",
+      "university": "University of Kassel",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Kassel",
+      "studyMode": "part time, full time",
+      "deadlines": "9 days left (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-mobility-traffic-and-transport-and-infrastructure-w65000/?hec-id=w65000",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-kassel-mobility-traffic-and-transport-and-infrastructure-w65000/?hec-id=w65000",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w71156",
+      "title": "Civil Engineering",
+      "university": "University of Rostock",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Rostock",
+      "studyMode": "full time",
+      "deadlines": "March 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-civil-engineering-w71156/?hec-id=w71156",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-civil-engineering-w71156/?hec-id=w71156",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "hydraulic engineering"
+      ]
+    },
+    {
+      "id": "w14841",
+      "title": "Civil Engineering",
+      "university": "University of Siegen",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Siegen",
+      "studyMode": "full time",
+      "deadlines": "expired (Germans and inhabitants) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-siegen-civil-engineering-w14841/?hec-id=w14841",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-siegen-civil-engineering-w14841/?hec-id=w14841",
+      "termHits": [
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "w39394",
+      "title": "Civil engineering",
+      "university": "University of Stuttgart",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart",
+      "studyMode": "full time",
+      "deadlines": "July 2026 (Germans and inhabitants) | July 2026 (EU) | January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-civil-engineering-w39394/?hec-id=w39394",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-civil-engineering-w39394/?hec-id=w39394",
+      "termHits": [
+        "civil engineering",
+        "construction engineering",
+        "structural engineering",
+        "transportation engineering",
+        "water engineering"
+      ]
+    },
+    {
+      "id": "w235",
+      "title": "Infrastructure Planning",
+      "university": "University of Stuttgart",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Stuttgart",
+      "studyMode": "international course, full time",
+      "deadlines": "expired (Germans and inhabitants) | expired (EU) | expired (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-infrastructure-planning-w235/?hec-id=w235",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-infrastructure-planning-w235/?hec-id=w235",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "infrastructure engineering"
+      ]
+    },
+    {
+      "id": "w17252",
+      "title": "Civil Engineering",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Wuppertal",
+      "studyMode": "full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-civil-engineering-w17252/?hec-id=w17252",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-civil-engineering-w17252/?hec-id=w17252",
+      "termHits": [
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "w16718",
+      "title": "Civil Engineering - Planning, Construction, Operation",
+      "university": "University of Wuppertal",
+      "degree": "Master",
+      "duration": "4 semesters",
+      "location": "Wuppertal",
+      "studyMode": "full time",
+      "deadlines": "April 2026 (Germans and inhabitants) | July 2026 (EU) | July 2026 (Non-EU)",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-civil-engineering-planning-construction-operation-w16718/?hec-id=w16718",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-civil-engineering-planning-construction-operation-w16718/?hec-id=w16718",
+      "termHits": [
+        "civil engineering",
+        "construction engineering"
+      ]
+    },
+    {
+      "id": "w7557",
+      "title": "Civil Engineering",
+      "university": "Wismar University of Applied Sciences: Technology, Business and Design",
+      "degree": "Master",
+      "duration": "3 semesters",
+      "location": "Wismar",
+      "studyMode": "full time",
+      "deadlines": "8 days left (Germans and inhabitants) | January 2027 (EU) | January 2027 (Non-EU) | Please enquire",
+      "daadPath": "/en/studying-in-germany/universities/all-degree-programmes/detail/wismar-university-of-applied-sciences-technology-business-and-design-civil-engineering-w7557/?hec-id=w7557",
+      "daadUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/wismar-university-of-applied-sciences-technology-business-and-design-civil-engineering-w7557/?hec-id=w7557",
+      "termHits": [
+        "civil engineering",
+        "structural engineering",
+        "transportation engineering"
+      ]
+    }
+  ]
+}
