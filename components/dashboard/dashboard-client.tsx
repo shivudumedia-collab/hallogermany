@@ -143,44 +143,6 @@ export function DashboardClient({ userId, fullName, initialItems }: DashboardCli
     }
   };
 
-  const handleUploadProof = async (key: string, file: File) => {
-    setLoadingState(`${key}:upload`);
-    try {
-      const extension = file.name.split(".").pop() || "pdf";
-      const safeExt = extension.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
-      const fileName = `${Date.now()}-${Math.random().toString(36).slice(2)}.${safeExt}`;
-      const path = `${userId}/${key}/${fileName}`;
-
-      const { error: uploadError } = await supabase.storage.from("user-documents").upload(path, file, {
-        contentType: file.type || "application/octet-stream",
-        upsert: false
-      });
-
-      if (uploadError) {
-        throw uploadError;
-      }
-
-      await upsertChecklistItem(key, { proof_url: path });
-      toast.success("Proof uploaded");
-    } catch (error) {
-      const message = error instanceof Error ? error.message : "Could not upload proof";
-      toast.error(message);
-    } finally {
-      setLoadingState(null);
-    }
-  };
-
-  const handleOpenProof = async (proofPath: string) => {
-    const { data, error } = await supabase.storage.from("user-documents").createSignedUrl(proofPath, 60 * 10);
-
-    if (error || !data?.signedUrl) {
-      toast.error(error?.message || "Could not open file");
-      return;
-    }
-
-    window.open(data.signedUrl, "_blank", "noopener,noreferrer");
-  };
-
   const downloadChecklistSummary = () => {
     const rows = checklistSteps.map((step) => {
       const item = itemsByKey[step.key];
@@ -275,8 +237,6 @@ export function DashboardClient({ userId, fullName, initialItems }: DashboardCli
                     loadingState={loadingState}
                     onStatusChange={handleStatusChange}
                     onSaveNotes={handleSaveNotes}
-                    onUploadProof={handleUploadProof}
-                    onOpenProof={handleOpenProof}
                   />
                 ))}
               </Accordion>

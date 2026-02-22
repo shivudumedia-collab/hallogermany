@@ -8,7 +8,7 @@ export default function SignupPage() {
         <Card className="space-y-4">
           <div>
             <CardTitle>Create your account</CardTitle>
-            <CardDescription>Save progress, notes, and document proofs for each checklist step.</CardDescription>
+            <CardDescription>Save progress and notes for each checklist step.</CardDescription>
           </div>
           <SignupForm />
         </Card>

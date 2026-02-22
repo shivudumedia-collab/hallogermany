@@ -24,8 +24,8 @@ export default function HomePage() {
               A premium study roadmap for Indian students building their Germany journey.
             </h1>
             <p className="max-w-xl text-base text-black sm:text-lg">
-              From APS and uni-assist to blocked account, visa, Anmeldung, and residence permit. Track progress, add notes,
-              and upload proof documents in one dashboard.
+              From APS and uni-assist to blocked account, visa, Anmeldung, and residence permit. Track progress and add notes
+              in one dashboard.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link href="/signup">
@@ -91,7 +91,7 @@ export default function HomePage() {
           <Card className="space-y-3 bg-white">
             <CardTitle className="text-base">Opportunity Card</CardTitle>
             <CardDescription>
-              Research-backed checklist of points, proof documents and official links for Chancenkarte.
+              Research-backed checklist of points, required documents and official links for Chancenkarte.
             </CardDescription>
             <Link href="/opportunity-card">
               <Button variant="outline" className="gap-2">
