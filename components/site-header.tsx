@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { ChevronDown, LogOut, UserRound, UserRoundCog } from "lucide-react";
+import { ChevronDown, LogOut, Menu, UserRound, UserRoundCog, X } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { createClient } from "@/lib/supabase/client";
 import { Button } from "@/components/ui/button";
@@ -21,6 +21,7 @@ export function SiteHeader() {
   const [isLoading, setIsLoading] = useState(false);
   const [userInfo, setUserInfo] = useState<HeaderUserInfo | null>(null);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const profileMenuRef = useRef<HTMLDivElement | null>(null);
   const supabase = useMemo(() => createClient(), []);
 
@@ -78,15 +79,32 @@ export function SiteHeader() {
 
   useEffect(() => {
     setMenuOpen(false);
+    setMobileNavOpen(false);
   }, [pathname]);
 
   const isAuthPage = pathname === "/login" || pathname === "/signup";
+  const navItems = [
+    { label: "Dashboard", href: "/dashboard", match: "/dashboard" },
+    { label: "Application", href: "/guide/application", match: "/guide/application" },
+    { label: "Post-Arrival", href: "/guide/post-arrival", match: "/guide/post-arrival" },
+    { label: "Life in Germany", href: "/guide/life-in-germany", match: "/guide/life-in-germany" },
+    { label: "Resources", href: "/resources", match: "/resources" },
+    { label: "Learning German", href: "/learn-german?section=learn-german", match: "/learn-german" },
+    { label: "Opportunity Card", href: "/opportunity-card", match: "/opportunity-card" },
+    { label: "Master Programs", href: "/master-programs?stream=computer-science", match: "/master-programs" },
+    { label: "FAQ", href: "/faq", match: "/faq" }
+  ];
   const navLinkClass = (href: string) =>
     cn(
       "inline-flex items-center whitespace-nowrap rounded-full px-3 py-1.5 text-[11px] font-semibold uppercase tracking-[0.07em] transition-colors",
       pathname === href || pathname.startsWith(`${href}/`)
         ? "bg-black text-white"
         : "text-foreground hover:bg-black hover:text-white"
+    );
+  const mobileNavLinkClass = (href: string) =>
+    cn(
+      "block rounded-md px-3 py-2 text-sm font-semibold uppercase tracking-[0.08em] transition-colors",
+      pathname === href || pathname.startsWith(`${href}/`) ? "bg-black text-white" : "text-black hover:bg-[#fff4e6] hover:text-[#dc2626]"
     );
 
   const handleLogout = async () => {
@@ -113,6 +131,17 @@ export function SiteHeader() {
           </Link>
 
           <div className="flex items-center gap-2">
+            <button
+              type="button"
+              className="inline-flex h-10 w-10 items-center justify-center rounded-md border border-black bg-white text-black transition hover:bg-[#fff4e6] hover:text-[#dc2626] md:hidden"
+              onClick={() => setMobileNavOpen((prev) => !prev)}
+              aria-expanded={mobileNavOpen}
+              aria-controls="mobile-site-nav"
+              aria-label={mobileNavOpen ? "Close navigation" : "Open navigation"}
+            >
+              {mobileNavOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+            </button>
+
             {userInfo ? (
               <>
                 <div className="relative" ref={profileMenuRef}>
@@ -164,7 +193,7 @@ export function SiteHeader() {
               </>
             ) : (
               !isAuthPage && (
-                <>
+                <div className="hidden items-center gap-2 md:flex">
                   <Link href="/login">
                     <Button size="sm" variant="outline">
                       Login
@@ -175,41 +204,48 @@ export function SiteHeader() {
                       Sign up
                     </Button>
                   </Link>
-                </>
+                </div>
               )
             )}
           </div>
         </div>
 
         <nav className="hidden items-center gap-1 overflow-x-auto border-t border-black/20 py-2 md:flex [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-          <Link href="/dashboard" className={navLinkClass("/dashboard")}>
-            Dashboard
-          </Link>
-          <Link href="/guide/application" className={navLinkClass("/guide/application")}>
-            Application
-          </Link>
-          <Link href="/guide/post-arrival" className={navLinkClass("/guide/post-arrival")}>
-            Post-Arrival
-          </Link>
-          <Link href="/guide/life-in-germany" className={navLinkClass("/guide/life-in-germany")}>
-            Life in Germany
-          </Link>
-          <Link href="/resources" className={navLinkClass("/resources")}>
-            Resources
-          </Link>
-          <Link href="/learn-german?section=learn-german" className={navLinkClass("/learn-german")}>
-            Learning German
-          </Link>
-          <Link href="/opportunity-card" className={navLinkClass("/opportunity-card")}>
-            Opportunity Card
-          </Link>
-          <Link href="/master-programs?stream=computer-science" className={navLinkClass("/master-programs")}>
-            Master Programs
-          </Link>
-          <Link href="/faq" className={navLinkClass("/faq")}>
-            FAQ
-          </Link>
+          {navItems.map((item) => (
+            <Link key={item.match} href={item.href} className={navLinkClass(item.match)}>
+              {item.label}
+            </Link>
+          ))}
         </nav>
+
+        {mobileNavOpen ? (
+          <nav id="mobile-site-nav" className="space-y-1 border-t border-black/20 py-2 md:hidden">
+            {navItems.map((item) => (
+              <Link
+                key={`mobile-${item.match}`}
+                href={item.href}
+                className={mobileNavLinkClass(item.match)}
+                onClick={() => setMobileNavOpen(false)}
+              >
+                {item.label}
+              </Link>
+            ))}
+            {!userInfo && !isAuthPage ? (
+              <div className="grid grid-cols-2 gap-2 px-1 pt-2">
+                <Link href="/login" onClick={() => setMobileNavOpen(false)}>
+                  <Button size="sm" variant="outline" className="w-full">
+                    Login
+                  </Button>
+                </Link>
+                <Link href="/signup" onClick={() => setMobileNavOpen(false)}>
+                  <Button size="sm" variant="saffron" className="w-full">
+                    Sign up
+                  </Button>
+                </Link>
+              </div>
+            ) : null}
+          </nav>
+        ) : null}
       </div>
     </header>
   );
